@@ -1,0 +1,490 @@
+{
+ "actualizado": "21 nov 2026, 2:45 p. m.",
+ "cinta": [
+  [
+   "NASDAQ",
+   "−5,28 %",
+   "viernes 20 nov",
+   "d"
+  ],
+  [
+   "S&P 500",
+   "6.910",
+   "en corrección",
+   "d"
+  ],
+  [
+   "NVDA",
+   "125,53 $",
+   "−14 % en un día",
+   "d"
+  ],
+  [
+   "VIX",
+   "35,89",
+   "+26 %",
+   "u"
+  ],
+  [
+   "ORO",
+   "~3.515 $",
+   "−4,6 % el viernes",
+   "d"
+  ],
+  [
+   "DXY",
+   "103,84",
+   "cerca de máx. 19 meses",
+   "n"
+  ],
+  [
+   "BONO 10 AÑOS",
+   "4,92 %",
+   "baja 0,12 puntos",
+   "d"
+  ],
+  [
+   "FED DIC",
+   "90 %",
+   "subida 0,25 % (Kalshi)",
+   "u"
+  ]
+ ],
+ "noticias": [
+  {
+   "dia": "2026-11-20",
+   "cat": "M7",
+   "score": 10,
+   "principal": true,
+   "titulo": "Nvidia se desploma un 14 % por una investigación de la SEC a sus cuentas",
+   "cifra": "−14 %",
+   "cifraTxt": "caída de Nvidia en un solo día, hasta 125,53 $: su peor semana en 18 años",
+   "paso": "Según Reuters, el regulador de la bolsa de EE. UU. (la SEC) está revisando posibles problemas contables en Nvidia. No se sabe desde cuándo ni qué temas exactos revisa, y una investigación no significa que haya delito. Aun así, la acción cayó un 14 % y perdió unos 431.000 millones de dólares de valor en el día; ya está un 46 % por debajo de su récord del 6 de octubre.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Cuando hay dudas sobre las cuentas, el mercado deja de confiar en los números, aunque los resultados recientes hayan sido muy buenos."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Nvidia es la empresa con más peso del índice: su caída arrastró al Nasdaq y a todo el sector de chips (el índice de semiconductores bajó un 10,7 %)."
+    ],
+    [
+     "SECTOR IA",
+     "down",
+     "Era el gran símbolo de la IA. Si su contabilidad está en duda, los inversores venden todo lo relacionado con IA por si acaso."
+    ]
+   ],
+   "clave": "Hasta que se aclare qué revisa la SEC, Nvidia cotizará con miedo: espera movimientos bruscos en ambas direcciones con cada titular.",
+   "fuente": [
+    "24/7 Wall St.",
+    "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/"
+   ]
+  },
+  {
+   "dia": "2026-11-20",
+   "cat": "M7",
+   "score": 9,
+   "titulo": "Viernes negro en Wall Street: el Nasdaq cae un 5,3 % y el S&P 500 entra en corrección",
+   "paso": "El Nasdaq bajó un 5,28 % y borró lo que había ganado en el año; en la semana cae más de un 10 %. El S&P 500 perdió un 3,70 %, su séptimo día seguido en rojo, y ya está un 10 % por debajo de su récord. El Nasdaq-100 quedó a solo 49 puntos de entrar en mercado bajista (−20 % desde máximos). Apple bajó un 1,9 % y Broadcom un 12 % por informaciones no confirmadas de que Google comprará menos de sus chips el año que viene.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "down",
+     "El miedo a la IA se convirtió en venta general: los inversores salen de tecnología y se refugian en sectores defensivos como consumo básico."
+    ],
+    [
+     "AAPL",
+     "down",
+     "Cayó mucho menos que el resto: el mercado la ve menos expuesta a la IA."
+    ],
+    [
+     "GOOGL",
+     "neu",
+     "La noticia de que Google recortaría compras de chips a Broadcom la pone en el centro del debate sobre el gasto en IA."
+    ],
+    [
+     "VIX",
+     "up",
+     "El índice del miedo subió un 26 %, hasta 35,89: la volatilidad seguirá alta en los próximos días."
+    ]
+   ],
+   "clave": "El mercado está en modo pánico con la tecnología. Con el VIX por encima de 35, reduce el tamaño de tus operaciones y respeta tus stops.",
+   "fuente": [
+    "Yahoo Finanzas",
+    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
+   ]
+  },
+  {
+   "dia": "2026-11-20",
+   "cat": "USD",
+   "score": 8,
+   "titulo": "El oro se hunde un 4,6 % y los bonos actúan como refugio",
+   "paso": "El oro (futuros) cayó un 4,6 %, hasta unos 3.515 $, y ya está por debajo de los 3.600 $. Con la caída de la bolsa, los grandes inversores venden materias primas para quedarse con dólares en efectivo y bonos del Tesoro. Por eso la rentabilidad del bono a 10 años bajó 0,12 puntos, hasta el 4,92 %.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "down",
+     "En un pánico, se vende lo que se puede vender para cubrir pérdidas, incluido el oro. Además, la Fed sigue camino de subir tasas."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El dólar casi no se movió (103,84): gana como refugio, pero lo frena la bajada de las rentabilidades de los bonos."
+    ],
+    [
+     "USDJPY",
+     "down",
+     "El yen también funciona como refugio: el par bajó un 0,74 % y se alejó de la zona de 160."
+    ]
+   ],
+   "clave": "Esta vez el oro no fue refugio: lo que manda es la caja en dólares. Cuidado con comprar oro solo porque «está barato».",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+   ]
+  },
+  {
+   "dia": "2026-11-20",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "La Fed no se ablanda pese a la caída de la bolsa",
+   "paso": "Dos miembros de la Fed, Anna Paulson (Filadelfia) y la gobernadora Lisa Cook, dijeron que están abiertos a subir tasas en reuniones seguidas y que esperar demasiado es arriesgado. El mercado mantiene en un 90 % la probabilidad de una subida de 0,25 % el 9 de diciembre. Como dato positivo, la inflación que espera el consumidor para el próximo año bajó al 3,7 %, la menor desde marzo.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Si la Fed sigue subiendo tasas aunque caiga la bolsa, el dólar mantiene su ventaja frente a otras monedas."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "No hay «rescate» de la Fed a la vista: las tecnológicas siguen sin el apoyo de tasas más bajas."
+    ],
+    [
+     "ORO",
+     "down",
+     "Más subidas de tasas siguen siendo un viento en contra para el oro."
+    ]
+   ],
+   "clave": "La Fed prioriza la inflación sobre la bolsa. La subida de diciembre sigue casi segura.",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+   ]
+  },
+  {
+   "dia": "2026-11-18",
+   "cat": "USD",
+   "score": 9,
+   "titulo": "La Fed casi confirma una subida de tasas en diciembre",
+   "paso": "La Fed publicó las notas de su última reunión: casi todos sus miembros quieren subir las tasas de interés en diciembre. Algunos hasta hablan de subirlas el doble de lo normal (0,50 % en vez de 0,25 %) si la inflación sigue alta.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Tasas más altas = tener dólares paga más. Entra dinero de todo el mundo y el dólar se fortalece."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "Es euro contra dólar: si el dólar gana fuerza, el par tiende a bajar."
+    ],
+    [
+     "ORO",
+     "down",
+     "El oro no paga intereses. Cuando el dólar y los bonos pagan más, el oro pierde atractivo."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Con el dinero más caro, las tecnológicas (que valen por lo que ganarán en el futuro) se ven menos atractivas."
+    ]
+   ],
+   "clave": "La subida es casi segura. La duda es si será de 0,25 % o 0,50 %: si es 0,50 %, todo este efecto será más fuerte.",
+   "fuente": [
+    "Federal Reserve",
+    "https://federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+   ]
+  },
+  {
+   "dia": "2026-11-19",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Anthropic sale a bolsa por encima de lo previsto y Amazon y Google ganan en grande",
+   "paso": "Anthropic, la empresa de inteligencia artificial creadora de Claude, salió a bolsa a 83 $ por acción, por encima del rango de 70–78 $, y recaudó 81.300 millones. Hubo pedidos por casi 500.000 millones. Amazon se queda con el 14,7 % de la empresa y Google con el 13,7 %: cada participación vale más de 100.000 millones.",
+   "impacto": [
+    [
+     "AMZN",
+     "up",
+     "Su apuesta en Anthropic ahora tiene un precio de mercado claro y enorme. Además, Anthropic es gran cliente de su nube (AWS)."
+    ],
+    [
+     "GOOGL",
+     "up",
+     "Mismo caso: una participación de más de 100.000 M$ que ahora se puede valorar todos los días en bolsa."
+    ],
+    [
+     "SECTOR IA",
+     "neu",
+     "Tanta demanda demuestra que el apetito por la IA sigue vivo, aunque las acciones del sector vengan castigadas."
+    ]
+   ],
+   "clave": "Amazon y Google tienen ahora un activo de IA que cotiza en bolsa. Lo que haga Anthropic en bolsa también moverá a estas dos.",
+   "fuente": [
+    "24/7 Wall St.",
+    "https://247wallst.com/investing/2026/11/19/anthropics-ipo-drew-nearly-500-billion-in-orders-for-81-billion-of-stock/"
+   ]
+  },
+  {
+   "dia": "2026-11-19",
+   "cat": "USD",
+   "score": 8,
+   "titulo": "El dólar toca su nivel más alto en 19 meses y frena",
+   "paso": "El índice del dólar (DXY) llegó a 103,97, su máximo desde abril de 2025. Después bajó un poco porque un dato de la industria de EE. UU. (Fed de Filadelfia) salió muy flojo: 6,3 cuando se esperaba 20.",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "Sigue en tendencia alcista, pero está en una zona alta: un dato débil basta para frenarlo."
+    ],
+    [
+     "EURUSD",
+     "neu",
+     "Gran parte de la subida del dólar es el euro cayendo. Si el euro deja de caer, el dólar pierde impulso."
+    ]
+   ],
+   "clave": "El dólar está fuerte, pero estirado. Si siguen saliendo datos débiles en EE. UU., puede corregir.",
+   "fuente": [
+    "FXStreet",
+    "https://www.fxstreet.com/news/us-dollar-takes-a-breather-after-rally-to-19-month-high-202611191423"
+   ]
+  },
+  {
+   "dia": "2026-11-19",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "Más gente sigue cobrando el paro en EE. UU.: primera grieta en el empleo",
+   "paso": "Las nuevas peticiones de subsidio por desempleo subieron a 203.000 (se esperaban 197.000). Lo más llamativo: las personas que siguen cobrando el paro subieron en 70.000, hasta 1,76 millones, el mayor salto desde enero de 2024.",
+   "impacto": [
+    [
+     "DXY",
+     "down",
+     "Si el empleo se enfría, la Fed tiene menos motivos para subir tasas muchas veces. Eso le quita fuerza al dólar."
+    ],
+    [
+     "ORO",
+     "up",
+     "Cualquier señal de que la Fed podría frenar le da un respiro al oro."
+    ]
+   ],
+   "clave": "Los despidos siguen bajos, pero a quien pierde el empleo le cuesta más encontrar otro. Si se repite, cambia el discurso de la Fed.",
+   "fuente": [
+    "Investing Live",
+    "https://investinglive.com/news/us-initial-jobless-claims-203k-vs-197k-estimate/"
+   ]
+  },
+  {
+   "dia": "2026-11-19",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Microsoft rebota un 3 % tras tocar mínimos de 7 semanas",
+   "paso": "Microsoft subió un 3,1 % el jueves después de caer a 496,51 $ el martes, su precio más bajo desde finales de septiembre. La caída venía de dudas sobre cuánto está gastando en IA. El día antes había anunciado una alianza con Nvidia y Anthropic.",
+   "impacto": [
+    [
+     "MSFT",
+     "up",
+     "Rebote técnico desde mínimos. Sigue lejos de su máximo de 559 $ del 4 de noviembre."
+    ]
+   ],
+   "clave": "El mercado castiga el gasto en IA, pero compra cuando la acción se abarata. Zona de 500 $ como soporte a vigilar.",
+   "fuente": [
+    "Blockonomi",
+    "https://blockonomi.com/?p=219958"
+   ]
+  },
+  {
+   "dia": "2026-11-18",
+   "cat": "USD",
+   "score": 8,
+   "titulo": "El oro cae a su nivel más bajo en 14 meses",
+   "paso": "El oro tocó 3.719 $ por onza, su precio más bajo desde septiembre de 2025. Coincidió con el dólar en máximos de 19 meses y los bonos de EE. UU. pagando más por la expectativa de nuevas subidas de tasas.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "down",
+     "Dólar fuerte + tasas al alza es la peor combinación para el oro: cuesta más comprarlo y rinde menos que un bono."
+    ],
+    [
+     "DXY",
+     "up",
+     "Es la otra cara de la moneda: el dinero que sale del oro busca rentabilidad en dólares."
+    ]
+   ],
+   "clave": "Mientras la Fed siga en modo subida, el oro va contra corriente. Un dato débil en EE. UU. sería su mejor aliado para rebotar.",
+   "fuente": [
+    "Nation Thailand",
+    "https://www.nationthailand.com/business/trading-investment/40073658"
+   ]
+  },
+  {
+   "dia": "2026-11-18",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Las 7 Magníficas ya no van juntas: Apple arriba, Nvidia abajo",
+   "paso": "En 2026 Apple sube un 29,4 % y está a solo un 1,2 % de su récord. En cambio, Nvidia, Tesla y Alphabet siguen más de un 20 % por debajo de sus máximos. Solo Apple y Amazon le ganan al S&P 500 este año.",
+   "impacto": [
+    [
+     "AAPL",
+     "up",
+     "El mercado la premia por depender menos del gasto en inteligencia artificial."
+    ],
+    [
+     "NVDA · TSLA · GOOGL",
+     "down",
+     "Siguen lejos de sus máximos: el mercado castiga a las más expuestas a la IA."
+    ]
+   ],
+   "clave": "Ya no basta con comprar las 7. Entre la mejor (Apple) y la peor (Nvidia) hay 46 puntos de diferencia en el año.",
+   "fuente": [
+    "24/7 Wall St.",
+    "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/"
+   ]
+  },
+  {
+   "dia": "2026-11-17",
+   "cat": "M7",
+   "score": 9,
+   "titulo": "Nvidia vende el doble que hace un año y supera lo esperado",
+   "paso": "Nvidia vendió 115.800 millones de dólares en el trimestre, un 103 % más que hace un año, y le ganó a lo que esperaba el mercado (109.100 M$). Además prevé vender unos 130.000 M$ el próximo trimestre. Es su primer informe sin Jensen Huang como CEO.",
+   "impacto": [
+    [
+     "NVDA",
+     "up",
+     "Venía castigada (de 186 $ a 155 $ en noviembre). Buenos números le dan motivos para rebotar: subió ~2,5 % tras el informe."
+    ],
+    [
+     "NASDAQ",
+     "up",
+     "Nvidia es la empresa con más peso del mercado (~6,9 % del S&P 500). Cuando ella sube, arrastra al índice."
+    ],
+    [
+     "SECTOR IA",
+     "up",
+     "Confirma que la demanda de chips para inteligencia artificial sigue fuerte."
+    ]
+   ],
+   "clave": "La IA sigue vendiendo. Pero ojo: con la Fed subiendo tasas, el viento de fondo sigue en contra de las tecnológicas.",
+   "fuente": [
+    "Stock Analysis",
+    "https://stockanalysis.com/news/nvda-q3-fy2027-earnings-beat/"
+   ]
+  },
+  {
+   "dia": "2026-11-17",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El consumidor de EE. UU. sigue gastando: ventas minoristas mejor de lo que parecen",
+   "paso": "Las ventas minoristas de octubre subieron un 0,2 %, justo lo esperado. Pero sin contar coches, gasolina y otros rubros volátiles (el llamado grupo de control) subieron un 0,6 %, por encima del 0,4 % previsto.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Consumidor fuerte = economía sólida = la Fed puede seguir subiendo tasas sin miedo. El DXY tocó máximos de 19 meses con el dato."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Buena noticia para las ventas de las empresas, pero también le da argumentos a la Fed para endurecerse."
+    ]
+   ],
+   "clave": "La gente sigue comprando. Eso sostiene la economía, pero también mantiene la presión para subir tasas.",
+   "fuente": [
+    "Newsquawk",
+    "https://www.newsquawk.com/headlines/us-retail-sales-ex-autos-oct-mm-06-vs-exp-04-prev-11"
+   ]
+  },
+  {
+   "dia": "2026-11-16",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Lunes rojo en tecnología: Nvidia cae un 4 % y arrastra al grupo",
+   "paso": "Una venta masiva en acciones de IA y chips hundió al Nasdaq un 2,5 % en el día. Nvidia cayó un 4,1 %, Amazon un 3,3 %, Tesla un 2,7 % y Meta un 2,4 %, sin noticias propias de cada empresa: fue el miedo al sector completo.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Fue la que lideró la caída, un día antes de sus resultados."
+    ],
+    [
+     "AMZN · TSLA · META",
+     "down",
+     "Cayeron por contagio, no por noticias propias."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Las 7 Magníficas pesan un tercio del S&P 500: cuando caen juntas, el índice cae."
+    ]
+   ],
+   "clave": "Cuando el miedo es a la IA en general, caen todas juntas. Las noticias propias de cada empresa pasan a segundo plano.",
+   "fuente": [
+    "Gotrade News",
+    "https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-17-2026/"
+   ]
+  }
+ ],
+ "mag": [
+  [
+   "AAPL",
+   "Apple",
+   29.4
+  ],
+  [
+   "AMZN",
+   "Amazon",
+   11.7
+  ],
+  [
+   "MSFT",
+   "Microsoft",
+   4.7
+  ],
+  [
+   "META",
+   "Meta",
+   -6.2
+  ],
+  [
+   "GOOGL",
+   "Alphabet",
+   -10.5
+  ],
+  [
+   "TSLA",
+   "Tesla",
+   -15.5
+  ],
+  [
+   "NVDA",
+   "Nvidia",
+   -16.6
+  ]
+ ],
+ "magFecha": "cierre 17 nov",
+ "spy": 7.4,
+ "magFuente": [
+  "24/7 Wall St.",
+  "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/"
+ ],
+ "agenda": [
+  [
+   "2026-12-09",
+   "Decisión de tasas de la Fed",
+   "Reunión 8–9 de diciembre. El mercado descuenta una subida de 0,25 %."
+  ]
+ ],
+ "cola": []
+}
