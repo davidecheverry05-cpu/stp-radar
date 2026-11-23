@@ -1,62 +1,115 @@
 {
- "actualizado": "23 nov 2026, 3:50 p. m.",
+ "actualizado": "23 nov 2026, 6:55 p. m.",
  "cinta": [
   [
-   "NASDAQ",
-   "+6,9 %",
-   "rebote del lunes",
+   "S&P 500",
+   "+4,73 %",
+   "mejor día desde abril 2025",
    "u"
   ],
   [
-   "S&P 500",
-   "+5,0 %",
-   "corta 7 días en rojo",
+   "NASDAQ",
+   "+6,51 %",
+   "cierra en 24.089",
    "u"
   ],
   [
    "NVDA",
-   "166 $",
-   "+32 %: vuelve Huang",
+   "165,05 $",
+   "+31 %: vuelve Huang",
+   "u"
+  ],
+  [
+   "TSLA",
+   "385,46 $",
+   "rebota con la IA",
+   "u"
+  ],
+  [
+   "DXY",
+   "104,31",
+   "cierre más alto desde marzo 2025",
    "u"
   ],
   [
    "ORO",
-   "3.668 $",
-   "+3 %",
+   "3.634 $",
+   "+3,4 %",
    "u"
-  ],
-  [
-   "PMI COMPUESTO",
-   "54,6",
-   "mínimo de 4 meses",
-   "d"
   ],
   [
    "BONO 10 AÑOS",
-   "4,94 %",
-   "+0,03 puntos",
-   "u"
-  ],
-  [
-   "USDJPY",
-   "159,13",
-   "el yen se debilita",
-   "u"
+   "4,92 %",
+   "casi sin cambios",
+   "n"
   ],
   [
    "VIX",
-   "27,33",
-   "−23,9 %",
+   "26,62",
+   "−25,8 %",
    "d"
   ]
  ],
  "noticias": [
   {
    "dia": "2026-11-23",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "Williams (Fed de Nueva York): la inflación sigue alta y todavía queda trabajo por hacer",
+   "paso": "John Williams, presidente de la Fed de Nueva York y miembro con voto, dijo que la inflación es «demasiado alta» y que la Fed debe actuar para devolverla al 2 %. Espera cerrar el año con una inflación del 3,5 % y que no llegue al objetivo hasta 2028, con riesgos todavía al alza. Decidirá con los próximos datos qué hacer en la reunión del 8 y 9 de diciembre, donde el mercado espera una subida de 0,25 % desde el rango actual de 3,75 %–4,00 %. Ese mismo día, el índice del dólar (DXY) cerró en 104,31, su cierre más alto desde marzo de 2025.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "La Fed no se ablanda pese al susto en la bolsa: con más subidas de tasas a la vista, el dólar sigue siendo atractivo."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "Si el dólar se fortalece, el euro pierde terreno y el par tiende a bajar."
+    ],
+    [
+     "XAUUSD",
+     "neu",
+     "El oro rebotó con la calma del mercado, pero tasas más altas siguen siendo un freno para él."
+    ]
+   ],
+   "clave": "La Fed sigue en modo subida: el rebote de la bolsa no cambia el plan, y el PCE del miércoles será la siguiente prueba.",
+   "fuente": [
+    "Yahoo Finance (Reuters)",
+    "https://finance.yahoo.com/economy/policy/articles/fed-lower-inflation-williams-says-210546185.html"
+   ]
+  },
+  {
+   "dia": "2026-11-23",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Tesla sube un 13 % arrastrada por el rebote de la IA",
+   "paso": "Tesla llegó a cotizar en 390,62 $, un 13 % más, en el gran rebote del lunes tras la vuelta de Jensen Huang a Nvidia. El viernes había caído un 7,6 %. Aun con esta subida, la acción sigue un 13 % por debajo de donde empezó el año. Otras eléctricas también subieron: Rivian un 9 % y Lucid un 8 %.",
+   "impacto": [
+    [
+     "TSLA",
+     "up",
+     "El mercado trata a Tesla como una apuesta de IA (conducción autónoma, robotaxis, robots): cuando vuelve la confianza en la IA, Tesla sube con fuerza."
+    ],
+    [
+     "NASDAQ",
+     "up",
+     "Tesla es una de las grandes del índice: su subida suma al rebote de la tecnología."
+    ]
+   ],
+   "clave": "Tesla se mueve cada vez más al ritmo de Nvidia y la IA que al de los fabricantes de coches: si la IA vuelve a caer, Tesla también lo sentirá.",
+   "fuente": [
+    "24/7 Wall St.",
+    "https://247wallst.com/investing/2026/11/23/tesla-jumps-13-as-jensen-huangs-return-to-nvidia-sparks-broad-market-rally-rivian-rallies-9-lucid-surges-8/"
+   ]
+  },
+  {
+   "dia": "2026-11-23",
    "cat": "M7",
    "score": 8,
-   "titulo": "Wall Street rebota con fuerza: el Nasdaq sube cerca de un 7 % y el S&P 500 casi un 5 %",
-   "paso": "A mediodía del lunes, el Nasdaq subía un 6,9 %, el S&P 500 un 5 % y el Dow Jones un 3,2 %, impulsados por la vuelta de Jensen Huang a Nvidia, que ganaba un 32 %, hasta unos 166 $. El índice del miedo (VIX) caía un 24 %, hasta 27,3. La rentabilidad del bono a 10 años subía al 4,94 % y el petróleo bajaba un 3 %.",
+   "titulo": "Wall Street vive su mejor día desde abril de 2025: el Nasdaq cierra con +6,5 % y el S&P 500 con +4,7 %",
+   "paso": "Al cierre del lunes, el S&P 500 subió un 4,73 %, hasta 7.237 puntos, y cortó siete días seguidos de caídas. El Nasdaq ganó un 6,51 % y el Dow Jones un 3,01 % (más de 1.400 puntos). Nvidia, motor del rebote, cerró con un 31 % más tras la vuelta de Jensen Huang. El índice del miedo (VIX) se hundió un 25,8 %, hasta 26,62, y el petróleo bajó un 3,8 %.",
    "impacto": [
     [
      "NASDAQ",
@@ -71,13 +124,13 @@
     [
      "VIX",
      "down",
-     "Con menos miedo, la volatilidad baja, aunque 27 sigue siendo un nivel alto."
+     "Con menos miedo, la volatilidad baja, aunque cerca de 27 sigue siendo un nivel alto."
     ]
    ],
    "clave": "Es un rebote de alivio muy fuerte, pero en semana corta y con la Fed aún subiendo tasas: no confundas un gran día con el fin de la corrección.",
    "fuente": [
     "Yahoo Finance",
-    "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
    ]
   },
   {
