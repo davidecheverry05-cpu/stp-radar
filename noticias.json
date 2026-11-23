@@ -1,64 +1,339 @@
 {
- "actualizado": "21 nov 2026, 2:45 p. m.",
+ "actualizado": "23 nov 2026, 3:50 p. m.",
  "cinta": [
   [
    "NASDAQ",
-   "−5,28 %",
-   "viernes 20 nov",
-   "d"
+   "+6,9 %",
+   "rebote del lunes",
+   "u"
   ],
   [
    "S&P 500",
-   "6.910",
-   "en corrección",
-   "d"
+   "+5,0 %",
+   "corta 7 días en rojo",
+   "u"
   ],
   [
    "NVDA",
-   "125,53 $",
-   "−14 % en un día",
-   "d"
-  ],
-  [
-   "VIX",
-   "35,89",
-   "+26 %",
+   "166 $",
+   "+32 %: vuelve Huang",
    "u"
   ],
   [
    "ORO",
-   "~3.515 $",
-   "−4,6 % el viernes",
-   "d"
+   "3.668 $",
+   "+3 %",
+   "u"
   ],
   [
-   "DXY",
-   "103,84",
-   "cerca de máx. 19 meses",
-   "n"
+   "PMI COMPUESTO",
+   "54,6",
+   "mínimo de 4 meses",
+   "d"
   ],
   [
    "BONO 10 AÑOS",
-   "4,92 %",
-   "baja 0,12 puntos",
-   "d"
+   "4,94 %",
+   "+0,03 puntos",
+   "u"
   ],
   [
-   "FED DIC",
-   "90 %",
-   "subida 0,25 % (Kalshi)",
+   "USDJPY",
+   "159,13",
+   "el yen se debilita",
    "u"
+  ],
+  [
+   "VIX",
+   "27,33",
+   "−23,9 %",
+   "d"
   ]
  ],
  "noticias": [
   {
-   "dia": "2026-11-20",
+   "dia": "2026-11-23",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Wall Street rebota con fuerza: el Nasdaq sube cerca de un 7 % y el S&P 500 casi un 5 %",
+   "paso": "A mediodía del lunes, el Nasdaq subía un 6,9 %, el S&P 500 un 5 % y el Dow Jones un 3,2 %, impulsados por la vuelta de Jensen Huang a Nvidia, que ganaba un 32 %, hasta unos 166 $. El índice del miedo (VIX) caía un 24 %, hasta 27,3. La rentabilidad del bono a 10 años subía al 4,94 % y el petróleo bajaba un 3 %.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "Vuelve la compra de tecnología: el índice recupera en un solo día buena parte de la caída de la semana pasada."
+    ],
+    [
+     "NVDA",
+     "up",
+     "Es el motor del rebote: con su CEO de vuelta, el mercado deja de castigarla por la duda sobre quién la dirige."
+    ],
+    [
+     "VIX",
+     "down",
+     "Con menos miedo, la volatilidad baja, aunque 27 sigue siendo un nivel alto."
+    ]
+   ],
+   "clave": "Es un rebote de alivio muy fuerte, pero en semana corta y con la Fed aún subiendo tasas: no confundas un gran día con el fin de la corrección.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+   ]
+  },
+  {
+   "dia": "2026-11-23",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "La actividad de las empresas de EE. UU. se frena en noviembre",
+   "paso": "El índice PMI de servicios de S&P Global bajó a 54,7 (antes 56,1), por debajo de lo que esperaba el mercado (cerca de 55,7). El de manufactura quedó en 54,5, en línea con lo previsto, y el índice compuesto cayó a 54,6, su nivel más bajo en cuatro meses. Los precios suben algo más despacio, pero la inflación sigue por encima del objetivo del 2 % de la Fed.",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "La economía crece menos rápido, pero no lo bastante lento para frenar a la Fed: el mercado aún da un 97,6 % de probabilidad a una subida de 0,25 % en diciembre."
+    ],
+    [
+     "XAUUSD",
+     "up",
+     "Datos más flojos ayudan al oro, que no paga intereses: le dan algo de aire a su rebote."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "El mercado ignoró el dato: hoy manda el rebote de la tecnología por la vuelta de Huang a Nvidia."
+    ]
+   ],
+   "clave": "La economía se enfría un poco, pero la subida de tasas de diciembre sigue casi segura: el próximo examen es el PCE del miércoles.",
+   "fuente": [
+    "FXEmpire",
+    "https://www.fxempire.com/forecasts/article/us-pmi-services-miss-forecast-as-price-pressures-ease-in-november-1646578"
+   ]
+  },
+  {
+   "dia": "2026-11-23",
    "cat": "M7",
    "score": 10,
    "principal": true,
+   "titulo": "Nvidia vuelve a nombrar CEO a Jensen Huang y la acción se dispara un 31 %",
+   "cifra": "+31 %",
+   "cifraTxt": "subida de Nvidia en la apertura del lunes, hasta unos 165 $, tras seis días seguidos de caídas",
+   "paso": "La junta de Nvidia votó por unanimidad devolverle a Jensen Huang los cargos de CEO, presidente y presidente del consejo, con efecto inmediato. Huang había renunciado el 12 de noviembre. El domingo, Trump pidió públicamente su regreso, y la junta dijo que consultó con altos niveles del Gobierno y que su vuelta no supone un riesgo para la seguridad nacional. La investigación interna seguirá hasta el final y se creó un comité de seguridad nacional y control de exportaciones.",
+   "impacto": [
+    [
+     "NVDA",
+     "up",
+     "Se despeja la gran duda de quién dirige la empresa: la acción recupera en un día buena parte de lo que perdió la semana pasada."
+    ],
+    [
+     "NASDAQ",
+     "up",
+     "Nvidia es la empresa con más peso del índice: su subida tira de todo el Nasdaq en la apertura."
+    ],
+    [
+     "SECTOR IA",
+     "up",
+     "Vuelven las compras a los chips: AMD, Broadcom, Arm y Micron también suben con fuerza."
+    ]
+   ],
+   "clave": "El cambio de dirección se resolvió, pero la investigación de la SEC sigue abierta: tras un rebote tan fuerte, espera movimientos bruscos en ambas direcciones.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html"
+   ]
+  },
+  {
+   "dia": "2026-11-23",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El oro rebota más de un 4 % y el dólar sigue firme cerca de 104",
+   "paso": "Los futuros del oro subían un 4,36 %, hasta unos 3.668 $, y recuperan los 3.600 $ después de quedarse cerca de los 3.500 $ el viernes. Al mismo tiempo, el índice del dólar (DXY) subía un 0,27 %, hasta 104,03, y el USDJPY llegaba a 159,13. El mercado ya no espera una subida de tasas de 0,50 % en diciembre, aunque sigue descontando una de 0,25 %.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "up",
+     "Al volver la calma, el oro deja de venderse para cubrir pérdidas en bolsa y rebota con fuerza."
+    ],
+    [
+     "DXY",
+     "up",
+     "El dólar sigue fuerte porque la Fed sigue camino de subir tasas: se mantiene en la zona de máximos de 19 meses."
+    ],
+    [
+     "USDJPY",
+     "up",
+     "Con menos miedo en el mercado, el yen pierde su papel de refugio y el par sube hacia 159."
+    ]
+   ],
+   "clave": "Oro y dólar suben a la vez: el rebote del oro es de alivio tras el pánico, no una señal de que la Fed vaya a frenar.",
+   "fuente": [
+    "Investing.com",
+    "https://www.investing.com/analysis/us-futures-rebound-after-10-slump-gold-climbs-as-dollar-eases-200692127"
+   ]
+  },
+  {
+   "dia": "2026-11-22",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El mercado descarta una subida de 0,50 % de la Fed y el dólar se toma un respiro",
+   "paso": "Con el regreso de la calma, los operadores rebajaron sus apuestas a subidas de tasas agresivas. Según CME FedWatch, la probabilidad de una subida de 0,25 % el 9 de diciembre es del 88,6 %, y la opción de subir 0,50 % (que hace una semana tenía un 11,5 %) ya no se descuenta. El índice del dólar (DXY) quedó plano en 103,80, algo por debajo de su máximo de 19 meses; el EURUSD subió un 0,1 %, hasta 1,0974, y el USDJPY un 0,2 %, hasta 158,63.",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "La subida de diciembre sigue casi segura, pero sin el «extra» de 0,50 % el dólar pierde un poco de impulso."
+    ],
+    [
+     "EURUSD",
+     "up",
+     "Si el dólar se frena, el euro respira: el par sube un poco desde la zona de 1,09."
+    ],
+    [
+     "USDJPY",
+     "up",
+     "Con menos miedo en el mercado, se vende el yen como refugio y el par sube hacia 159."
+    ]
+   ],
+   "clave": "La Fed subirá 0,25 % en diciembre casi seguro; lo que ya no se espera es un golpe más fuerte, y eso enfría un poco al dólar.",
+   "fuente": [
+    "Investing.com (Reuters)",
+    "https://investing.com/news/economy-news/dollar-edges-off-19month-high-after-market-rout-yen-softens-5044182"
+   ]
+  },
+  {
+   "dia": "2026-11-22",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El oro rebota casi un 2 % después de su peor semana en años",
+   "paso": "Al abrir la semana, los futuros del oro subían un 1,99 %, hasta unos 3.585 $, tras desplomarse cerca de un 9 % la semana pasada. Ayuda que el mercado ya no espere una subida de tasas de 0,50 % en diciembre y que la rentabilidad del bono a 10 años de EE. UU. haya bajado al 4,91 %.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "up",
+     "Si se esperan menos subidas de tasas y los bonos pagan algo menos, el oro (que no paga intereses) recupera atractivo."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El dólar casi no se mueve: el rebote del oro viene más por los bonos que por un dólar débil."
+    ]
+   ],
+   "clave": "Es un rebote tras una caída enorme, no un cambio de tendencia: con la Fed aún subiendo tasas, opera el oro con stops ajustados.",
+   "fuente": [
+    "Yahoo Finance (Reuters)",
+    "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
+   ]
+  },
+  {
+   "dia": "2026-11-22",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Bessent sigue sin respuestas de Nvidia y Jensen Huang declarará ante el Senado",
+   "paso": "El secretario del Tesoro, Scott Bessent, dijo este domingo en televisión (Face the Nation, CBS) que el Gobierno todavía no ha recibido las respuestas que pidió a Nvidia sobre si cumplió las reglas de exportación de chips a China; el plazo que dio fue de 10 días. Según Bessent, lo importante es saber quién controlaba el cumplimiento dentro de la empresa, no la vida privada del exCEO. Jensen Huang aceptó declarar ante el Comité Bancario del Senado y ante comisiones de la Cámara a principios de diciembre.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Mientras el Gobierno siga pidiendo explicaciones y no haya respuestas, la acción seguirá cargando con la duda."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Nvidia es la empresa con más peso del índice: cada titular sobre este caso mueve al Nasdaq entero."
+    ]
+   ],
+   "clave": "El caso Nvidia no se cierra pronto: las respuestas al Tesoro y la declaración de Huang en diciembre son los próximos momentos de riesgo.",
+   "fuente": [
+    "CBS News",
+    "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
+   ]
+  },
+  {
+   "dia": "2026-11-22",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Los futuros rebotan casi un 3 % tras la peor semana de la bolsa desde 2020",
+   "paso": "Al abrir Asia el lunes, los futuros del Nasdaq 100 subían cerca de un 3 % y los del S&P 500 un 2 %, por compras de quienes ven oportunidad tras la caída. Vienen de una semana muy dura: el Nasdaq cayó un 10 %, su peor semana desde marzo de 2020, y Nvidia lleva siete semanas seguidas a la baja. Asia no acompaña: el índice coreano KOSPI caía más de un 3 % y la bolsa de Taiwán viene de perder un 17 % en la semana, lo peor desde 1990.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "Después de caídas tan fuertes suele haber rebotes de alivio, pero un rebote no confirma que la caída terminó."
+    ],
+    [
+     "NVDA",
+     "neu",
+     "Es la acción más castigada: si el rebote se sostiene, puede ser de las que más suban, pero sus problemas legales siguen abiertos."
+    ],
+    [
+     "SECTOR IA",
+     "down",
+     "Corea y Taiwán, llenos de empresas de chips, siguen cayendo: la duda sobre si el gasto en IA dará beneficios no se ha ido."
+    ]
+   ],
+   "clave": "Semana corta por Acción de Gracias y con poco volumen: los movimientos pueden ser exagerados en ambas direcciones.",
+   "fuente": [
+    "Yahoo Finance (Reuters)",
+    "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
+   ]
+  },
+  {
+   "dia": "2026-11-20",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Anthropic cae un 9 % en su segundo día en bolsa y roza su precio de salida",
+   "paso": "Después de cerrar el jueves en 97,17 $, la acción de Anthropic llegó a bajar el viernes hasta 83,05 $, a solo 5 centavos de su precio de salida a bolsa (83 $). Luego rebotó y cerró en 88,30 $, un 9 % menos que el día anterior, en plena venta general de acciones ligadas a la inteligencia artificial.",
+   "impacto": [
+    [
+     "AMZN",
+     "down",
+     "Amazon tiene cerca del 14,7 % de Anthropic: si la acción baja, el valor de esa participación también baja."
+    ],
+    [
+     "GOOGL",
+     "down",
+     "Google tiene alrededor del 13,7 % de Anthropic: le pasa lo mismo que a Amazon."
+    ],
+    [
+     "SECTOR IA",
+     "neu",
+     "Aguantó por encima de su precio de salida, señal de que hay compradores, pero el ánimo con la IA sigue frágil."
+    ]
+   ],
+   "clave": "Anthropic ya funciona como termómetro de la IA: lo que haga su acción también pesará sobre Amazon y Google.",
+   "fuente": [
+    "24/7 Wall St.",
+    "https://247wallst.com/investing/2026/11/20/anthropic-stock-came-within-5-cents-of-its-83-ipo-price-on-day-2-then-bounced-6-to-close-at-88-30-facebook-closed-its-day-2-10-below-its-ipo-price/"
+   ]
+  },
+  {
+   "dia": "2026-11-19",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "California también investiga a Nvidia por sus riesgos en China",
+   "paso": "El fiscal general de California, Rob Bonta, envió a Nvidia una citación para que entregue información: quiere saber si la empresa engañó a los inversores sobre sus riesgos en China. Se suma a la investigación de la SEC. Además, el secretario del Tesoro, Scott Bessent, pidió respuestas a la junta directiva de Nvidia en un plazo de 10 días sobre posibles ventas de chips avanzados a China.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Cada nueva investigación suma incertidumbre: el mercado exige más descuento para tener una acción con problemas legales abiertos."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Nvidia pesa mucho en el índice: más malas noticias legales pueden alargar la presión sobre la tecnología."
+    ]
+   ],
+   "clave": "Una citación es un primer paso, no una acusación, pero los frentes legales de Nvidia se multiplican: atento al plazo de Bessent a finales de noviembre.",
+   "fuente": [
+    "The Daily Guardian (Reuters)",
+    "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/"
+   ]
+  },
+  {
+   "dia": "2026-11-20",
+   "cat": "M7",
+   "score": 10,
    "titulo": "Nvidia se desploma un 14 % por una investigación de la SEC a sus cuentas",
-   "cifra": "−14 %",
-   "cifraTxt": "caída de Nvidia en un solo día, hasta 125,53 $: su peor semana en 18 años",
    "paso": "Según Reuters, el regulador de la bolsa de EE. UU. (la SEC) está revisando posibles problemas contables en Nvidia. No se sabe desde cuándo ni qué temas exactos revisa, y una investigación no significa que haya delito. Aun así, la acción cayó un 14 % y perdió unos 431.000 millones de dólares de valor en el día; ya está un 46 % por debajo de su récord del 6 de octubre.",
    "impacto": [
     [
@@ -480,6 +755,16 @@
   "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/"
  ],
  "agenda": [
+  [
+   "2026-11-25",
+   "Inflación PCE, PIB, bienes duraderos y Libro Beige",
+   "Se espera PCE de 3,8 % anual (antes 3,6 %) y PIB del 3.er trimestre revisado al 3,5 %."
+  ],
+  [
+   "2026-11-26",
+   "Acción de Gracias: Wall Street cerrado",
+   "El viernes 27 la sesión será más corta y con poco volumen."
+  ],
   [
    "2026-12-09",
    "Decisión de tasas de la Fed",
