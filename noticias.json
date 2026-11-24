@@ -1143,5 +1143,35 @@
    "Reunión 8–9 de diciembre. El mercado descuenta una subida de 0,25 %."
   ]
  ],
- "cola": []
+ "cola": [
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "El Dow cierra por encima de 50.000 puntos mientras la tecnología cae un 3,3 %",
+   "paso": "Al cierre del martes, el Dow Jones subió un 0,85 %, hasta 50.018,70 puntos, empujado por salud, consumo y empresas de valor. En cambio, el Nasdaq bajó un 1,48 % y el S&P 500 un 0,50 %, su octava caída en nueve sesiones: la tecnología fue el único gran sector en rojo (−3,26 %). Nvidia cerró con −5,86 %, en 155,38 $, y el oro bajó un 2,64 %, hasta 3.555 $.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Devuelve parte del +31 % del lunes: tras un salto tan grande, muchos venden para asegurar ganancias."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "El índice depende mucho de los chips: cuando ellos caen, el Nasdaq cae más que el resto del mercado."
+    ],
+    [
+     "DOW",
+     "up",
+     "El dinero no se va de la bolsa: sale de la IA y entra en salud, consumo y empresas más baratas."
+    ]
+   ],
+   "clave": "La bolsa no cae entera, el dinero rota fuera de la IA: mientras los chips sigan nerviosos, el Nasdaq lo hará peor que el Dow.",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+   ]
+  }
+ ]
 }
