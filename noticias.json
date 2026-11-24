@@ -1,5 +1,5 @@
 {
- "actualizado": "23 nov 2026, 6:55 p. m.",
+ "actualizado": "24 nov 2026, 6:55 a. m.",
  "cinta": [
   [
    "S&P 500",
@@ -15,14 +15,20 @@
   ],
   [
    "NVDA",
-   "165,05 $",
-   "+31 %: vuelve Huang",
-   "u"
+   "−3,2 %",
+   "preapertura del martes tras subir 31 %",
+   "d"
   ],
   [
-   "TSLA",
-   "385,46 $",
-   "rebota con la IA",
+   "USDJPY",
+   "158,95",
+   "el yen sube por miedo a una intervención",
+   "d"
+  ],
+  [
+   "AMZN",
+   "7.500 M$",
+   "compra la tecnología de Decart",
    "u"
   ],
   [
@@ -51,6 +57,83 @@
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Nvidia devuelve parte del rebote y la bolsa de EE. UU. abre la semana con cautela",
+   "paso": "Tras subir un 31 % el lunes, su mayor alza en un día en 23 años, Nvidia caía un 3,2 % antes de la apertura del martes. Los futuros del Nasdaq 100 bajaban un 0,7 % y los del S&P 500 un 0,2 %, mientras las bolsas de Asia se ponían al día con el rebote: el índice asiático subía un 3,5 % y el KOSPI coreano un 5,8 %. El mercado espera ahora el dato de inflación PCE del miércoles.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Después de una subida tan grande, muchos venden para asegurar ganancias: es normal que devuelva una parte."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "El índice depende de si la IA sigue atrayendo compras; sin una noticia nueva, el impulso del lunes se enfría."
+    ],
+    [
+     "SECTOR IA",
+     "up",
+     "En Asia, los proveedores de Nvidia (SK Hynix, Samsung, SoftBank) suben con fuerza por la vuelta de Huang."
+    ]
+   ],
+   "clave": "Un rebote de un día no es una tendencia: el PCE del miércoles y la declaración de Huang en el Senado decidirán si la subida se mantiene.",
+   "fuente": [
+    "CNBC",
+    "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+   ]
+  },
+  {
+   "dia": "2026-11-23",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Amazon compra la tecnología de Decart por unos 7.500 millones para competir con Nvidia",
+   "paso": "Amazon firmó un acuerdo para comprar la tecnología de optimización de Decart (un programa que hace que los modelos de IA funcionen más rápido y más barato en los chips) y contratar a sus tres fundadores y su equipo. Amazon no dio el precio, pero según Bloomberg pagará unos 7.500 millones de dólares, casi el doble de lo que valía Decart en mayo. El objetivo es mejorar sus chips Trainium, que Amazon quiere empezar a vender a otras empresas.",
+   "impacto": [
+    [
+     "AMZN",
+     "up",
+     "Refuerza su negocio de chips y nube: si Trainium rinde más, puede ganar clientes que hoy usan Nvidia."
+    ],
+    [
+     "NVDA",
+     "neu",
+     "No le quita ventas hoy, pero suma un rival más en los chips para IA."
+    ]
+   ],
+   "clave": "Amazon va en serio con sus propios chips de IA: es una apuesta a largo plazo, todavía pendiente de la aprobación de los reguladores.",
+   "fuente": [
+    "TechCrunch",
+    "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El yen sube por miedo a que Japón intervenga para defenderlo",
+   "paso": "El USDJPY bajaba hasta cerca de 158,95 en la sesión asiática del martes. Los operadores temen que Japón vuelva a intervenir en el mercado de divisas, como hizo junto a EE. UU. en julio y agosto; la ministra de Finanzas, Satsuki Katayama, ya advirtió la semana pasada contra movimientos «bruscos y en una sola dirección». El mercado espera el PCE de EE. UU. del miércoles.",
+   "impacto": [
+    [
+     "USDJPY",
+     "down",
+     "Cerca de 160 aumenta el riesgo de que Japón compre yenes: eso frena la subida del par."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El dólar sigue apoyado por la Fed, pero frente al yen tiene un techo por la amenaza de intervención."
+    ]
+   ],
+   "clave": "En la zona de 159–160 el USDJPY puede caer de golpe si Japón interviene: cuidado con comprar el par en máximos.",
+   "fuente": [
+    "FXStreet",
+    "https://fxstreet.com/news/japanese-yen-strengthens-amid-intervention-fears-traders-await-us-pce-inflation-data-202611240135"
+   ]
+  },
   {
    "dia": "2026-11-23",
    "cat": "USD",
@@ -733,35 +816,6 @@
     "Newsquawk",
     "https://www.newsquawk.com/headlines/us-retail-sales-ex-autos-oct-mm-06-vs-exp-04-prev-11"
    ]
-  },
-  {
-   "dia": "2026-11-16",
-   "cat": "M7",
-   "score": 7,
-   "titulo": "Lunes rojo en tecnología: Nvidia cae un 4 % y arrastra al grupo",
-   "paso": "Una venta masiva en acciones de IA y chips hundió al Nasdaq un 2,5 % en el día. Nvidia cayó un 4,1 %, Amazon un 3,3 %, Tesla un 2,7 % y Meta un 2,4 %, sin noticias propias de cada empresa: fue el miedo al sector completo.",
-   "impacto": [
-    [
-     "NVDA",
-     "down",
-     "Fue la que lideró la caída, un día antes de sus resultados."
-    ],
-    [
-     "AMZN · TSLA · META",
-     "down",
-     "Cayeron por contagio, no por noticias propias."
-    ],
-    [
-     "NASDAQ",
-     "down",
-     "Las 7 Magníficas pesan un tercio del S&P 500: cuando caen juntas, el índice cae."
-    ]
-   ],
-   "clave": "Cuando el miedo es a la IA en general, caen todas juntas. Las noticias propias de cada empresa pasan a segundo plano.",
-   "fuente": [
-    "Gotrade News",
-    "https://www.heygotrade.com/en/news/tesla-tsla-stock-news-november-17-2026/"
-   ]
   }
  ],
  "mag": [
@@ -817,6 +871,11 @@
    "2026-11-26",
    "Acción de Gracias: Wall Street cerrado",
    "El viernes 27 la sesión será más corta y con poco volumen."
+  ],
+  [
+   "2026-11-30",
+   "AWS re:Invent (Amazon)",
+   "Gran conferencia anual de la nube de Amazon: atentos a novedades de sus chips Trainium."
   ],
   [
    "2026-12-09",
