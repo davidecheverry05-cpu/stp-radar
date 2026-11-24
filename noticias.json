@@ -1,56 +1,201 @@
 {
- "actualizado": "24 nov 2026, 9:50 a. m.",
+ "actualizado": "24 nov 2026, 12:45 p. m.",
  "cinta": [
   [
    "S&P 500",
-   "+4,73 %",
-   "lunes: mejor día desde abril 2025",
-   "u"
-  ],
-  [
-   "NVDA",
-   "155,89 $",
-   "−5,55 % antes de la apertura",
+   "7.189,98",
+   "−0,65 % a media sesión",
    "d"
   ],
   [
-   "ANTHROPIC",
-   "82,59 $",
-   "cae bajo su precio de salida (83 $)",
+   "NASDAQ",
+   "23.656,52",
+   "−1,80 %",
+   "d"
+  ],
+  [
+   "NVDA",
+   "−7,7 %",
+   "devuelve parte del +31 % del lunes",
    "d"
   ],
   [
    "DXY",
-   "104,50",
-   "máximo desde marzo 2025",
-   "u"
+   "103,76",
+   "−0,52 %",
+   "d"
   ],
   [
    "EURUSD",
-   "1,0881",
-   "mínimo en 19 meses",
-   "d"
+   "1,0978",
+   "+0,72 %",
+   "u"
   ],
   [
    "USDJPY",
-   "159,30",
-   "+0,2 %",
+   "159,15",
+   "+0,11 %",
    "u"
   ],
   [
-   "ORO",
-   "3.620 $",
-   "−0,86 %",
+   "CONFIANZA",
+   "103,3",
+   "máximo desde enero 2025",
+   "u"
+  ],
+  [
+   "BONO 10A",
+   "4,89 %",
+   "mínimo en dos semanas",
    "d"
-  ],
-  [
-   "VIX",
-   "29,94",
-   "+12,47 %",
-   "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 8,
+   "titulo": "EE. UU. prepara nuevos aranceles contra 16 socios comerciales, incluida China",
+   "paso": "Según Reuters, el Gobierno de Trump publicará esta semana (posiblemente martes o miércoles) los resultados de una investigación sobre exceso de capacidad industrial en 16 países, entre ellos China, la Unión Europea, Japón, Corea del Sur, México, India y Taiwán. Se esperan nuevos aranceles sobre una amplia gama de productos, que se sumarían a los que ya existen. El tipo exacto todavía no se conoce. La noticia hizo caer la bolsa en la apertura del martes.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "down",
+     "Más aranceles encarecen piezas y productos importados y pueden provocar represalias: malo para las tecnológicas que fabrican y venden fuera."
+    ],
+    [
+     "AAPL",
+     "neu",
+     "Apple fabrica gran parte de sus productos en Asia: atenta a si sus artículos quedan dentro o fuera de los nuevos aranceles."
+    ],
+    [
+     "DXY",
+     "neu",
+     "Los aranceles pueden subir la inflación y empujar a la Fed a subir tasas (bueno para el dólar), pero también meten miedo al crecimiento."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "La Unión Europea está en la lista: aranceles a sus productos son una mala noticia para el euro."
+    ]
+   ],
+   "clave": "Vuelve el riesgo de aranceles: hasta conocer los tipos y los productos afectados, espera saltos bruscos en la bolsa y en las divisas de los países señalados.",
+   "fuente": [
+    "Investing.com (Reuters)",
+    "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "La confianza del consumidor de EE. UU. se dispara a su nivel más alto desde enero de 2025",
+   "paso": "El índice de confianza del consumidor del Conference Board subió 11,4 puntos en noviembre, hasta 103,3, muy por encima de los 92,2 que esperaba el mercado. La visión de la situación actual subió a 132,8 y la de las expectativas a 83,6, sobre todo porque la gente ve mejor el mercado laboral. La inflación que esperan los consumidores para el próximo año bajó por segundo mes, pero sigue alta: 5,7 %.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Un consumidor más optimista suele gastar más: la economía aguanta y la Fed tiene razones para seguir subiendo tasas."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Buena señal para las ventas de las empresas, pero también refuerza a una Fed dura, que frena a las tecnológicas."
+    ],
+    [
+     "XAUUSD",
+     "down",
+     "Si la economía va bien y las tasas siguen subiendo, el oro (que no paga intereses) pierde atractivo."
+    ]
+   ],
+   "clave": "El consumidor recupera el ánimo: buena noticia para la economía, pero deja aún más firme la subida de tasas de diciembre.",
+   "fuente": [
+    "Stock Analysis",
+    "https://stockanalysis.com/news/consumer-confidence-jumps-november-2026/"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El dólar retrocede desde máximos y el euro rebota con fuerza",
+   "paso": "Según Reuters, el índice del dólar (DXY) bajaba un 0,52 %, hasta 103,76, a medida que se enfriaba el rebote de la IA. El euro subía un 0,72 %, hasta 1,0978 dólares, ayudado por la confianza empresarial alemana, que subió por séptimo mes seguido. La libra ganaba un 0,59 % (1,3106) y el USDJPY quedaba en 159,15. Aun así, el mercado da un 98 % de probabilidad a una subida de tasas de la Fed en diciembre y un 66 % a otra en enero.",
+   "impacto": [
+    [
+     "DXY",
+     "down",
+     "Cuando se toma beneficios en la bolsa de EE. UU., sale algo de dinero y el dólar pierde parte de su subida reciente."
+    ],
+    [
+     "EURUSD",
+     "up",
+     "Mejores datos en Alemania y un dólar más flojo hacen que el euro se aleje de su mínimo de 19 meses."
+    ],
+    [
+     "GBPUSD",
+     "up",
+     "La libra también aprovecha la pausa del dólar."
+    ]
+   ],
+   "clave": "Es un respiro del dólar, no un cambio de tendencia: con la Fed camino de subir tasas, el PCE del miércoles decidirá el siguiente movimiento.",
+   "fuente": [
+    "Global Banking & Finance Review (Reuters)",
+    "https://www.globalbankingandfinance.com/dollar-climbs-renewed-ai-euphoria-fuels-fed-hike-bets/"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Los chips vuelven a caer: Nvidia se deja casi un 8 % y el Nasdaq un 1,8 %",
+   "paso": "A media sesión del martes, Nvidia bajaba un 7,7 % tras subir un 31 % el lunes, y AMD caía un 9,8 %; Micron y Broadcom también bajaban con fuerza. El Nasdaq perdía un 1,8 % y el S&P 500 un 0,65 %, mientras el Dow Jones subía un 0,65 %. Apple y Microsoft iban al alza (hasta un 1 %), y la rentabilidad del bono a 10 años bajaba al 4,89 %. El mercado vuelve a dar un 95 % de probabilidad a una subida de 0,25 % de la Fed en diciembre.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Tras una subida histórica, muchos venden para asegurar ganancias, y la investigación de la SEC sigue abierta."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "El índice depende mucho de los chips: cuando ellos caen, el Nasdaq cae más que el resto del mercado."
+    ],
+    [
+     "AAPL · MSFT",
+     "up",
+     "El dinero sale de los chips y busca grandes tecnológicas menos expuestas a la locura de la IA."
+    ]
+   ],
+   "clave": "El mercado se divide: la mayoría de acciones sube con la buena economía, pero la IA sigue nerviosa. No persigas el rebote de los chips.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Tesla y SpaceX nombran a los consejeros que negociarán su fusión de 3,5 billones",
+   "paso": "Según el Financial Times, Tesla y SpaceX eligieron a cinco consejeros (tres de Tesla, entre ellos su presidenta Robyn Denholm, y dos de SpaceX) para negociar una posible fusión pagada con acciones, valorada en unos 3,5 billones de dólares, la mayor de la historia. Quieren cerrarla antes de fin de año, aunque todavía no hay acuerdo sobre cuántas acciones de SpaceX recibiría cada acción de Tesla. Necesitaría el voto de más del 50 % de todas las acciones de Tesla y la revisión de reguladores en EE. UU., China, Europa y Reino Unido.",
+   "impacto": [
+    [
+     "TSLA",
+     "neu",
+     "El precio dependerá de los términos: una buena relación de canje puede subir la acción, pero Musk podría ganar más control frente a los demás accionistas."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Una fusión de este tamaño cambiaría el peso de Tesla en los índices, pero aún faltan meses y muchos permisos."
+    ]
+   ],
+   "clave": "La fusión Tesla–SpaceX avanza, pero sin cifras cerradas: hasta conocer la relación de canje, cada titular puede mover mucho a TSLA.",
+   "fuente": [
+    "Electrek",
+    "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/"
+   ]
+  },
   {
    "dia": "2026-11-24",
    "cat": "USD",
@@ -915,11 +1060,6 @@
  ],
  "agenda": [
   [
-   "2026-11-24",
-   "Confianza del consumidor (Conference Board)",
-   "Se espera 92,1 (antes 91,7)."
-  ],
-  [
    "2026-11-25",
    "Inflación PCE, PIB, bienes duraderos y Libro Beige",
    "Se espera PCE de 3,8 % anual (antes 3,6 %) y PIB del 3.er trimestre revisado al 3,5 %."
@@ -933,6 +1073,11 @@
    "2026-11-30",
    "AWS re:Invent (Amazon)",
    "Gran conferencia anual de la nube de Amazon: atentos a novedades de sus chips Trainium."
+  ],
+  [
+   "2026-12-03",
+   "Junta anual de accionistas de Tesla",
+   "No incluye votación sobre la fusión con SpaceX."
   ],
   [
    "2026-12-09",
