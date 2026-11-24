@@ -1,22 +1,40 @@
 {
- "actualizado": "24 nov 2026, 12:45 p. m.",
+ "actualizado": "24 nov 2026, 4:05 p. m.",
  "cinta": [
   [
    "S&P 500",
-   "7.189,98",
-   "−0,65 % a media sesión",
+   "7.183,14",
+   "−0,75 % a 30 min del cierre",
    "d"
   ],
   [
    "NASDAQ",
-   "23.656,52",
-   "−1,80 %",
+   "23.645,38",
+   "−1,84 %",
    "d"
   ],
   [
+   "DOW",
+   "49.933,09",
+   "+0,68 %",
+   "u"
+  ],
+  [
    "NVDA",
-   "−7,7 %",
+   "−7,3 %",
    "devuelve parte del +31 % del lunes",
+   "d"
+  ],
+  [
+   "ORO",
+   "3.561,9",
+   "−2 % antes del PCE",
+   "d"
+  ],
+  [
+   "PLATA",
+   "40,86",
+   "−5,1 %",
    "d"
   ],
   [
@@ -30,27 +48,62 @@
    "1,0978",
    "+0,72 %",
    "u"
-  ],
-  [
-   "USDJPY",
-   "159,15",
-   "+0,11 %",
-   "u"
-  ],
-  [
-   "CONFIANZA",
-   "103,3",
-   "máximo desde enero 2025",
-   "u"
-  ],
-  [
-   "BONO 10A",
-   "4,89 %",
-   "mínimo en dos semanas",
-   "d"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El oro cae un 2 % y la plata un 5 % antes del dato de inflación PCE",
+   "paso": "El oro al contado bajó un 2 %, hasta unos 3.562 $ la onza, y devolvió buena parte del rebote del lunes; la plata se hundió un 5 %, hasta 40,86 $. El mercado ve casi segura una subida de tasas de la Fed en diciembre y espera el PCE del miércoles, que podría subir al 3,8 % anual. Además, CME subirá desde el cierre del martes la garantía exigida para operar futuros de oro, del 5 % al 6 % del valor del contrato.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "down",
+     "El oro no paga intereses: con la Fed camino de subir tasas, pierde atractivo frente a los bonos y el dólar."
+    ],
+    [
+     "PLATA",
+     "down",
+     "La plata se mueve más que el oro: cuando se venden metales, suele caer el doble o más. Y si operar futuros exige más garantía, algunos especuladores reducen posiciones."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El dólar bajó hoy, así que la caída del oro viene más de la Fed y de la toma de ganancias que de un dólar fuerte."
+    ]
+   ],
+   "clave": "El rebote del oro se frenó: el PCE del miércoles decide si vuelve a la zona de 3.500 $ o retoma la subida.",
+   "fuente": [
+    "Forbes Middle East",
+    "https://forbesmiddleeast.com/money/markets/silver-falls-5-below-41-gold-drops-2-ahead-of-us-inflation-report"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Microsoft declara un «código rojo» tras la gran caída de Outlook, Teams y Copilot",
+   "paso": "Según memorandos internos publicados por Reuters, Microsoft activó un «código rojo», su alarma de máxima prioridad, para cambiar cómo previene y responde a las grandes caídas de sus servicios. El apagón del 12 y 13 de noviembre duró unas 24 horas, afectó a la mayoría de sus usuarios y vino de un fallo en su propio software que pasó cuatro meses sin detectarse. La meta ahora es poder corregir un problema en todo el mundo en una hora; un arreglo urgente reciente tardó entre cinco y seis días.",
+   "impacto": [
+    [
+     "MSFT",
+     "neu",
+     "La acción apenas se movió (+0,27 %), pero la fiabilidad de la nube es clave para vender Copilot y Azure a las empresas."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "No mueve el índice por sí sola; sería un riesgo si se repitieran caídas grandes en los servicios de Microsoft."
+    ]
+   ],
+   "clave": "Microsoft reconoce el problema y lo trata como prioridad: para la acción importa más que no vuelva a pasar que el apagón en sí.",
+   "fuente": [
+    "Yahoo Finance (Reuters)",
+    "https://finance.yahoo.com/markets/article/microsoft-declares-a-code-red-in-the-middle-of-a-patchpocalypse-193740712.html"
+   ]
+  },
   {
    "dia": "2026-11-24",
    "cat": "USD",
@@ -1078,6 +1131,11 @@
    "2026-12-03",
    "Junta anual de accionistas de Tesla",
    "No incluye votación sobre la fusión con SpaceX."
+  ],
+  [
+   "2026-12-03",
+   "Jensen Huang declara ante el Senado",
+   "Comité Bancario: control de exportaciones de chips a China. Puede mover a NVDA."
   ],
   [
    "2026-12-09",
