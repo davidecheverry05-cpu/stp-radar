@@ -1,62 +1,114 @@
 {
- "actualizado": "24 nov 2026, 6:55 a. m.",
+ "actualizado": "24 nov 2026, 9:50 a. m.",
  "cinta": [
   [
    "S&P 500",
    "+4,73 %",
-   "mejor día desde abril 2025",
-   "u"
-  ],
-  [
-   "NASDAQ",
-   "+6,51 %",
-   "cierra en 24.089",
+   "lunes: mejor día desde abril 2025",
    "u"
   ],
   [
    "NVDA",
-   "−3,2 %",
-   "preapertura del martes tras subir 31 %",
+   "155,89 $",
+   "−5,55 % antes de la apertura",
+   "d"
+  ],
+  [
+   "ANTHROPIC",
+   "82,59 $",
+   "cae bajo su precio de salida (83 $)",
+   "d"
+  ],
+  [
+   "DXY",
+   "104,50",
+   "máximo desde marzo 2025",
+   "u"
+  ],
+  [
+   "EURUSD",
+   "1,0881",
+   "mínimo en 19 meses",
    "d"
   ],
   [
    "USDJPY",
-   "158,95",
-   "el yen sube por miedo a una intervención",
-   "d"
-  ],
-  [
-   "AMZN",
-   "7.500 M$",
-   "compra la tecnología de Decart",
-   "u"
-  ],
-  [
-   "DXY",
-   "104,31",
-   "cierre más alto desde marzo 2025",
+   "159,30",
+   "+0,2 %",
    "u"
   ],
   [
    "ORO",
-   "3.634 $",
-   "+3,4 %",
-   "u"
-  ],
-  [
-   "BONO 10 AÑOS",
-   "4,92 %",
-   "casi sin cambios",
-   "n"
+   "3.620 $",
+   "−0,86 %",
+   "d"
   ],
   [
    "VIX",
-   "26,62",
-   "−25,8 %",
-   "d"
+   "29,94",
+   "+12,47 %",
+   "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El euro cae a su nivel más bajo en 19 meses y el dólar sigue en máximos",
+   "paso": "El euro llegó a 1,0881 dólares el lunes, su nivel más bajo desde abril de 2025, y el martes se mantenía cerca de 1,09. El índice del dólar (DXY) superó los 104,50, lo más alto desde marzo de 2025, y luego se quedó quieto por debajo de ese nivel. El rebote de la IA en la bolsa reavivó la idea de que la economía de EE. UU. aguanta y de que la Fed podría subir tasas más de 0,25 % en diciembre.",
+   "impacto": [
+    [
+     "EURUSD",
+     "down",
+     "Si el mercado espera tasas más altas en EE. UU., el dinero prefiere el dólar y el euro pierde terreno."
+    ],
+    [
+     "DXY",
+     "up",
+     "Una Fed más dura hace que tener dólares pague más: el índice se mantiene en máximos de casi 20 meses."
+    ],
+    [
+     "USDJPY",
+     "up",
+     "El par sube hacia 159,30, aunque cerca de 160 sigue el riesgo de que Japón intervenga."
+    ]
+   ],
+   "clave": "El dólar manda antes del PCE del miércoles: un dato de inflación alto puede llevarlo a nuevos máximos y hundir más al euro.",
+   "fuente": [
+    "FXStreet",
+    "https://www.fxstreet.com/news/euro-languishes-at-19-month-lows-amid-reviving-hopes-of-aggressive-fed-hikes-202611240723"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Anthropic cae por debajo de su precio de salida a bolsa",
+   "paso": "La acción de Anthropic bajaba un 5,8 % antes de la apertura del martes, hasta 82,59 $, por debajo de los 83 $ a los que salió a bolsa. El 19 de noviembre llegó a abrir en 111,50 $, pero ha cerrado en rojo todas las sesiones desde entonces (87,64 $ el lunes) y no participó del rebote de la IA. MSCI la incluirá en sus índices globales al cierre del 30 de noviembre, lo que puede traer compras de fondos.",
+   "impacto": [
+    [
+     "AMZN",
+     "down",
+     "Amazon es uno de los mayores accionistas de Anthropic: si la acción baja, su participación vale menos."
+    ],
+    [
+     "GOOGL",
+     "down",
+     "Google también tiene una gran participación: le afecta igual que a Amazon."
+    ],
+    [
+     "SECTOR IA",
+     "down",
+     "Anthropic se ve como termómetro de la IA: caer bajo su precio de salida alimenta las dudas sobre valoraciones muy altas."
+    ]
+   ],
+   "clave": "Una salida a bolsa récord no garantiza subidas: vigila los 83 $ como zona clave para Anthropic y, de paso, para el ánimo con Amazon y Google.",
+   "fuente": [
+    "BNN Bloomberg (Reuters)",
+    "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/"
+   ]
+  },
   {
    "dia": "2026-11-24",
    "cat": "M7",
@@ -862,6 +914,11 @@
   "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/"
  ],
  "agenda": [
+  [
+   "2026-11-24",
+   "Confianza del consumidor (Conference Board)",
+   "Se espera 92,1 (antes 91,7)."
+  ],
   [
    "2026-11-25",
    "Inflación PCE, PIB, bienes duraderos y Libro Beige",
