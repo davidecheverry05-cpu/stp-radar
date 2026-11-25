@@ -1,5 +1,5 @@
 {
- "actualizado": "25 nov 2026, 9:47 a. m.",
+ "actualizado": "25 nov 2026, 12:47 p. m.",
  "cinta": [
   [
    "PCE",
@@ -20,37 +20,124 @@
    "u"
   ],
   [
-   "NASDAQ",
-   "−3,2 %",
-   "apertura del miércoles",
+   "NASDAQ 100",
+   "−4,5 %",
+   "miércoles, cerca del mercado bajista",
+   "d"
+  ],
+  [
+   "S&P 500",
+   "≈ −3 %",
+   "miércoles a media sesión",
    "d"
   ],
   [
    "NVDA",
-   "142,53 $",
-   "−8,27 %",
+   "142,38 $",
+   "−8,37 %",
    "d"
   ],
   [
-   "VIX",
-   "31,72",
-   "+20,3 %",
+   "BONOS 2 Y 10 AÑOS",
+   "−0,10 pts",
+   "rentabilidad a la baja",
+   "d"
+  ],
+  [
+   "ARANCEL VIETNAM",
+   "35 %",
+   "tope propuesto por EE. UU.",
    "u"
-  ],
-  [
-   "ORO",
-   "3.499,70 $",
-   "−2,55 %",
-   "d"
-  ],
-  [
-   "BONO 2 AÑOS",
-   "4,61 %",
-   "bajaba desde 4,67 %",
-   "d"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "El Nasdaq 100 se hunde un 4,5 % y queda al borde del mercado bajista",
+   "paso": "La venta de tecnológicas se aceleró a media sesión del miércoles. Según Bloomberg, el Nasdaq 100 perdía un 4,5 % y ya cae casi un 20 % desde su récord de octubre, la frontera del mercado bajista; el S&P 500 bajaba cerca de un 3 %. Nvidia caía un 8,37 %, hasta 142,38 $, y ya devolvió más de la mitad del +31 % del lunes, mientras AMD, Broadcom y Micron quedaron por debajo de su precio del viernes.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "down",
+     "Si cierra con una caída del 20 % desde máximos, entra oficialmente en mercado bajista: eso suele asustar a más vendedores."
+    ],
+    [
+     "NVDA",
+     "down",
+     "El rebote por la vuelta de Huang se esfuma: el mercado vuelve a dudar de que el gasto en IA dé beneficios."
+    ],
+    [
+     "MSFT · GOOGL · AMZN",
+     "down",
+     "Las grandes tecnológicas que más gastan en IA caen con los chips: el miedo es a que inviertan demasiado."
+    ]
+   ],
+   "clave": "El rebote del lunes ya casi no existe: con el Nasdaq a las puertas del mercado bajista y un festivo por delante, protege tus posiciones y no intentes adivinar el suelo.",
+   "fuente": [
+    "Bloomberg",
+    "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "La lista oficial de aranceles: hasta 35 % para Vietnam y 15 % para la Unión Europea y Japón",
+   "paso": "La oficina de comercio de EE. UU. (USTR) publicó su propuesta para 14 de las 16 economías investigadas: hasta 35 % para Vietnam, hasta 25 % para India, hasta 20 % para China y Singapur, hasta 18 % para cinco países del sudeste asiático y 15 % para la Unión Europea, Japón, Corea del Sur, Suiza y Taiwán. México y Noruega quedan sin decisión por ahora. Son solo propuestas: los comentarios se reciben hasta el 5 de enero y las audiencias empiezan el 25 de enero. Según Reuters, Tesla y Samsung pidieron no castigar a Vietnam porque dependen de sus fábricas.",
+   "impacto": [
+    [
+     "AAPL · TSLA",
+     "neu",
+     "Fabrican o compran piezas en Vietnam y en Asia: si las tasas finales se mantienen, sus costes pueden subir."
+    ],
+    [
+     "EURUSD",
+     "neu",
+     "El 15 % para la Unión Europea es el nivel ya pactado: no es un golpe nuevo para el euro."
+    ],
+    [
+     "DXY",
+     "neu",
+     "Los aranceles pueden subir la inflación en EE. UU. y mantener a la Fed dura, pero también frenan el comercio."
+    ]
+   ],
+   "clave": "El castigo más duro va para Vietnam e India, no para Europa: vigila el 5 de enero, cuando se cierran los comentarios antes de la decisión final.",
+   "fuente": [
+    "StockTitan (USTR)",
+    "https://www.stocktitan.net/articles/stock-market-today-live-november-25-2026"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "Los inversores corren a los bonos: las rentabilidades caen pese a la inflación alta",
+   "paso": "Aunque la inflación PCE subyacente subió al 3,3 % y el PIB se revisó al 4,3 %, las rentabilidades de los bonos de EE. UU. bajaron: la del bono a 2 años y la del bono a 10 años cayeron 0,10 puntos y la del bono a 30 años 0,08 puntos. El miedo en la bolsa lleva a muchos inversores a refugiarse en bonos del Tesoro. El mercado da un 97,8 % de probabilidad a una subida de 0,25 % de la Fed en diciembre. Además, las ventas de viviendas nuevas subieron un 14,2 % en octubre, hasta 701.000.",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "Bonos que pagan algo menos le quitan un poco de fuerza al dólar, aunque la Fed sigue camino de subir tasas."
+    ],
+    [
+     "XAUUSD",
+     "neu",
+     "Rentabilidades más bajas suelen ayudar al oro, pero hoy también se vende para cubrir pérdidas en la bolsa."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Cuando el dinero huye a los bonos es porque hay miedo: es señal de que la venta en tecnología no es solo por un dato."
+    ]
+   ],
+   "clave": "Hoy manda el miedo más que la inflación: el dinero se refugia en bonos aunque la Fed vaya a subir tasas en diciembre.",
+   "fuente": [
+    "Seeking Alpha",
+    "https://seekingalpha.com/news/4676621-midday-need-to-know-us-q3-gdp-revised-higher-core-pce-inflation-accelerates-more"
+   ]
+  },
   {
    "dia": "2026-11-25",
    "cat": "USD",
@@ -1398,6 +1485,11 @@
    "2026-12-23",
    "Inflación PCE de noviembre",
    "Llega dos semanas después de la decisión de la Fed."
+  ],
+  [
+   "2027-01-05",
+   "Cierre de comentarios sobre los nuevos aranceles",
+   "Último día para opinar sobre las tasas propuestas (Vietnam hasta 35 %, UE 15 %)."
   ],
   [
    "2027-01-10",
