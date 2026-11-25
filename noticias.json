@@ -1,56 +1,277 @@
 {
- "actualizado": "24 nov 2026, 9:45 p. m.",
+ "actualizado": "25 nov 2026, 9:47 a. m.",
  "cinta": [
   [
-   "S&P 500",
-   "−0,50 %",
-   "8.ª caída en 9 sesiones",
-   "d"
+   "PCE",
+   "3,8 %",
+   "inflación anual de octubre",
+   "u"
+  ],
+  [
+   "PCE SUBYACENTE",
+   "3,3 %",
+   "se esperaba 3,2 %",
+   "u"
+  ],
+  [
+   "PIB 3T",
+   "4,3 %",
+   "se esperaba 3,5 %",
+   "u"
   ],
   [
    "NASDAQ",
-   "−1,48 %",
-   "la tecnología cae un 3,26 %",
+   "−3,2 %",
+   "apertura del miércoles",
    "d"
-  ],
-  [
-   "DOW",
-   "50.018,70",
-   "+0,85 %, cierre sobre 50.000",
-   "u"
   ],
   [
    "NVDA",
-   "155,38 $",
-   "−5,86 % tras el +31 % del lunes",
+   "142,53 $",
+   "−8,27 %",
    "d"
+  ],
+  [
+   "VIX",
+   "31,72",
+   "+20,3 %",
+   "u"
   ],
   [
    "ORO",
-   "3.555",
-   "−2,64 % antes del PCE",
+   "3.499,70 $",
+   "−2,55 %",
    "d"
   ],
   [
-   "DXY",
-   "−0,48 %",
-   "bonos en mínimos de 2 semanas",
+   "BONO 2 AÑOS",
+   "4,61 %",
+   "bajaba desde 4,67 %",
    "d"
-  ],
-  [
-   "BONO 10A",
-   "4,88 %",
-   "mínimo de 2 semanas",
-   "d"
-  ],
-  [
-   "EURUSD",
-   "1,0978",
-   "+0,72 %",
-   "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 9,
+   "principal": true,
+   "titulo": "La inflación PCE sube al 3,8 % y deja casi segura la subida de tasas de la Fed",
+   "cifra": "3,8 %",
+   "cifraTxt": "inflación PCE anual de octubre, la más alta desde 2023 y casi el doble del objetivo del 2 % de la Fed",
+   "paso": "El índice PCE, la medida de inflación que más mira la Fed, subió un 0,3 % en octubre y un 3,8 % en el último año (3,6 % en septiembre), como se esperaba. La subyacente, sin comida ni energía, subió al 3,3 %, por encima del 3,2 % previsto, y lleva tres meses seguidos creciendo un 0,3 % al mes. Los ingresos de las familias subieron un 0,7 %, pero el gasto, descontando la inflación, se quedó plano. El mercado da ya un 98 % de probabilidad a una subida de 0,25 % el 9 de diciembre.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Inflación más alta = la Fed sube tasas. Tener dólares paga más y eso sostiene al dólar."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Con el dinero más caro, las tecnológicas (que valen por lo que ganarán en el futuro) pierden atractivo."
+    ],
+    [
+     "XAUUSD",
+     "down",
+     "El oro no paga intereses: con tasas al alza pierde frente a los bonos y cae por debajo de 3.500 $."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "Si la Fed sube más que el BCE, el dinero prefiere el dólar y el par tiende a bajar."
+    ]
+   ],
+   "clave": "La subida de diciembre ya es un hecho; ahora la pregunta es cuántas más vendrán en 2027, y eso mantiene la presión sobre la bolsa y el oro.",
+   "fuente": [
+    "Stock Analysis",
+    "https://stockanalysis.com/news/us-pce-inflation-october-2026/"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 9,
+   "titulo": "EE. UU. anuncia aranceles de hasta el 20 % a China, la Unión Europea y otros 12 países",
+   "paso": "El Gobierno de Trump propuso nuevos aranceles de hasta el 20 % tras una investigación de ocho meses sobre exceso de capacidad industrial. Se suman a los que ya existen: en algunos productos chinos el total pasaría del 40 %. Para la Unión Europea, Japón y Corea del Sur no deberían superar el 15 % pactado en sus acuerdos. Quedan fuera los chips, los coches, el acero y el aluminio. No entrarán en vigor antes de enero, tras audiencias y un periodo de comentarios; la tregua comercial con China vence el 10 de enero.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "down",
+     "Más aranceles encarecen productos y pueden traer represalias: el anuncio se sumó a la caída de las tecnológicas en la apertura."
+    ],
+    [
+     "AAPL · AMZN",
+     "neu",
+     "Venden muchos productos fabricados en Asia: atentas a qué artículos entran en la lista final. Los chips quedan fuera por ahora."
+    ],
+    [
+     "EURUSD",
+     "neu",
+     "Para la Unión Europea el tope sería el 15 % ya pactado: el golpe para el euro es menor que para las monedas de Asia."
+    ],
+    [
+     "DXY",
+     "neu",
+     "Los aranceles pueden subir la inflación (bueno para el dólar), pero también frenan el comercio y asustan al crecimiento."
+    ]
+   ],
+   "clave": "Hay tiempo hasta enero para negociar, pero China es el gran objetivo: vigila la fecha del 10 de enero, cuando vence la tregua.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Wall Street abre en rojo: el Nasdaq cae un 3,2 % y Nvidia se hunde un 8 %",
+   "paso": "Con la inflación al alza y los nuevos aranceles, la bolsa abrió el miércoles con fuertes caídas. El Nasdaq perdía un 3,2 % y Nvidia un 8,27 %, hasta 142,53 $, y ya devuelve casi todo el +31 % del lunes. El índice del miedo (VIX) subía un 20 %, hasta 31,72, y el oro caía un 2,55 %, hasta 3.499,70 $. Antes de la apertura, Anthropic cotizaba en 77,86 $, por debajo de su precio de salida de 83 $. El jueves la bolsa cierra por Acción de Gracias.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Tercera caída seguida tras el rebote del lunes: el mercado vuelve a dudar de que el gasto en IA dé beneficios."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Inflación alta, aranceles y venta de chips a la vez: el índice tecnológico es el que más sufre."
+    ],
+    [
+     "AMZN · GOOGL",
+     "down",
+     "Anthropic sigue bajo su precio de salida: las participaciones de Amazon y Google valen menos."
+    ],
+    [
+     "VIX",
+     "up",
+     "Por encima de 30, el miedo es alto: espera movimientos bruscos con poco volumen por el festivo."
+    ]
+   ],
+   "clave": "El rebote de la IA se borró en dos días: con el VIX sobre 30, reduce el tamaño de tus operaciones y no persigas rebotes.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "La economía de EE. UU. crece un 4,3 % y las peticiones de subsidio bajan a 189.000",
+   "paso": "El PIB del tercer trimestre creció a un ritmo anual del 4,3 %, por encima del 3,5 % que esperaba el mercado, gracias a la inversión y al consumo. Además, las nuevas peticiones de subsidio por desempleo bajaron en 13.000, hasta 189.000, por debajo de las 200.000 previstas y cerca de su nivel más bajo en décadas.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Una economía fuerte y un empleo sólido le dan a la Fed motivos para seguir subiendo tasas: apoyo para el dólar."
+    ],
+    [
+     "XAUUSD",
+     "down",
+     "Si la economía no necesita ayuda, las tasas seguirán altas y el oro (que no paga intereses) pierde atractivo."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Buena noticia para las ventas de las empresas, pero refuerza a una Fed dura, que frena a las tecnológicas."
+    ]
+   ],
+   "clave": "EE. UU. no se enfría: con crecimiento fuerte, empleo firme e inflación alta, la Fed no tiene razones para frenar.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Asia se hunde por los aranceles y la IA: Corea cae un 6 % y Taiwán casi un 5 %",
+   "paso": "Las bolsas de Asia vivieron otra sesión de pánico con los chips. El KOSPI coreano cerró con −6,16 %, en 4.697,51 puntos, y el TAIEX de Taiwán con −4,80 %, tras llegar a caer un 8,6 % durante el día. El Nikkei japonés bajó un 2,78 %. Pesan dos cosas: el frenazo del rebote de Nvidia y los nuevos aranceles que EE. UU. prepara contra 16 socios, entre ellos Japón, Corea y Taiwán, de los que aún no se conocen tasas ni fechas.",
+   "impacto": [
+    [
+     "SECTOR IA",
+     "down",
+     "Corea y Taiwán están llenos de fabricantes de chips y memorias: cuando ellos caen así, el mercado duda del negocio de la IA."
+    ],
+    [
+     "NVDA",
+     "down",
+     "Sus grandes proveedores (TSMC, SK Hynix, Samsung) están en esas bolsas: la venta en Asia suele contagiar a Nvidia."
+    ],
+    [
+     "AAPL",
+     "neu",
+     "Fabrica casi todo en Asia: si los aranceles a Taiwán, Corea o Japón suben, sus costes pueden aumentar."
+    ]
+   ],
+   "clave": "Asia vuelve a vender chips con fuerza: hasta conocer las tasas de los nuevos aranceles, espera más nervios en la IA.",
+   "fuente": [
+    "MarketSpeaker",
+    "https://marketspeaker.com/asia-stocks-taiwan-kospi-nikkei-selloff-tariffs-pce-november-25-2026/"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Los futuros del Nasdaq caen un 1 % y Nvidia sigue bajando antes del PCE",
+   "paso": "Antes de la apertura del miércoles, los futuros del Nasdaq 100 bajaban un 1 %, los del S&P 500 un 0,9 % y los del Dow Jones un 0,3 %. Nvidia, que el martes perdió casi un 6 %, seguía cayendo. Trump dijo que un indulto para Jensen Huang es «siempre una opción», aunque cree que no hará falta; Huang declarará ante el Congreso la próxima semana. El jueves la bolsa cierra por Acción de Gracias y el viernes abre solo media sesión.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Tras el +31 % del lunes, la acción sigue devolviendo la subida y el caso legal sigue abierto."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Con los chips otra vez en rojo, el índice tecnológico cae más que el resto del mercado."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El PCE de hoy decidirá si la Fed sube más de lo esperado: un dato alto daría fuerza al dólar y castigaría a las tecnológicas."
+    ]
+   ],
+   "clave": "Día de mucho riesgo: el PCE a las 8:30 a. m. de Nueva York y poco volumen por el festivo pueden exagerar los movimientos.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El dólar vuelve a subir por encima de 104 antes del dato de inflación",
+   "paso": "Según Reuters, el índice del dólar (DXY) subía un 0,2 %, hasta 104,06, y recuperaba parte de la caída del martes; en noviembre va camino de ganar casi un 2 %. El euro bajaba un 0,26 %, hasta 1,0935 dólares, la libra un 0,27 % (1,3078) y el USDJPY subía a 159,38. El dólar australiano cayó un 0,9 %, hasta 0,6578, su mínimo del año. El mercado da un 96 % de probabilidad a una subida de tasas de la Fed en diciembre y un 64 % a otra en enero.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Con la Fed casi segura de subir tasas, el dólar vuelve a atraer dinero antes del PCE."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "El rebote del euro del martes se frena: si el dólar sube, el par baja."
+    ],
+    [
+     "USDJPY",
+     "up",
+     "El yen sigue débil cerca de 160, la zona donde Japón podría intervenir."
+    ]
+   ],
+   "clave": "El respiro del dólar duró un día: si el PCE sale alto, puede buscar nuevos máximos del año.",
+   "fuente": [
+    "Euronext (Reuters)",
+    "https://live.euronext.com/en/financial-news/dollar-rallies-key-inflation-reading-aussie-and-sterling-slump"
+   ]
+  },
   {
    "dia": "2026-11-24",
    "cat": "USD",
@@ -586,10 +807,7 @@
    "dia": "2026-11-23",
    "cat": "M7",
    "score": 10,
-   "principal": true,
    "titulo": "Nvidia vuelve a nombrar CEO a Jensen Huang y la acción se dispara un 31 %",
-   "cifra": "+31 %",
-   "cifraTxt": "subida de Nvidia en la apertura del lunes, hasta unos 165 $, tras seis días seguidos de caídas",
    "paso": "La junta de Nvidia votó por unanimidad devolverle a Jensen Huang los cargos de CEO, presidente y presidente del consejo, con efecto inmediato. Huang había renunciado el 12 de noviembre. El domingo, Trump pidió públicamente su regreso, y la junta dijo que consultó con altos niveles del Gobierno y que su vuelta no supone un riesgo para la seguridad nacional. La investigación interna seguirá hasta el final y se creó un comité de seguridad nacional y control de exportaciones.",
    "impacto": [
     [
@@ -1100,59 +1318,6 @@
     "24/7 Wall St.",
     "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/"
    ]
-  },
-  {
-   "dia": "2026-11-17",
-   "cat": "M7",
-   "score": 9,
-   "titulo": "Nvidia vende el doble que hace un año y supera lo esperado",
-   "paso": "Nvidia vendió 115.800 millones de dólares en el trimestre, un 103 % más que hace un año, y le ganó a lo que esperaba el mercado (109.100 M$). Además prevé vender unos 130.000 M$ el próximo trimestre. Es su primer informe sin Jensen Huang como CEO.",
-   "impacto": [
-    [
-     "NVDA",
-     "up",
-     "Venía castigada (de 186 $ a 155 $ en noviembre). Buenos números le dan motivos para rebotar: subió ~2,5 % tras el informe."
-    ],
-    [
-     "NASDAQ",
-     "up",
-     "Nvidia es la empresa con más peso del mercado (~6,9 % del S&P 500). Cuando ella sube, arrastra al índice."
-    ],
-    [
-     "SECTOR IA",
-     "up",
-     "Confirma que la demanda de chips para inteligencia artificial sigue fuerte."
-    ]
-   ],
-   "clave": "La IA sigue vendiendo. Pero ojo: con la Fed subiendo tasas, el viento de fondo sigue en contra de las tecnológicas.",
-   "fuente": [
-    "Stock Analysis",
-    "https://stockanalysis.com/news/nvda-q3-fy2027-earnings-beat/"
-   ]
-  },
-  {
-   "dia": "2026-11-17",
-   "cat": "USD",
-   "score": 7,
-   "titulo": "El consumidor de EE. UU. sigue gastando: ventas minoristas mejor de lo que parecen",
-   "paso": "Las ventas minoristas de octubre subieron un 0,2 %, justo lo esperado. Pero sin contar coches, gasolina y otros rubros volátiles (el llamado grupo de control) subieron un 0,6 %, por encima del 0,4 % previsto.",
-   "impacto": [
-    [
-     "DXY",
-     "up",
-     "Consumidor fuerte = economía sólida = la Fed puede seguir subiendo tasas sin miedo. El DXY tocó máximos de 19 meses con el dato."
-    ],
-    [
-     "NASDAQ",
-     "neu",
-     "Buena noticia para las ventas de las empresas, pero también le da argumentos a la Fed para endurecerse."
-    ]
-   ],
-   "clave": "La gente sigue comprando. Eso sostiene la economía, pero también mantiene la presión para subir tasas.",
-   "fuente": [
-    "Newsquawk",
-    "https://www.newsquawk.com/headlines/us-retail-sales-ex-autos-oct-mm-06-vs-exp-04-prev-11"
-   ]
   }
  ],
  "mag": [
@@ -1200,11 +1365,6 @@
  ],
  "agenda": [
   [
-   "2026-11-25",
-   "Inflación PCE, PIB, bienes duraderos y Libro Beige",
-   "Se espera PCE de 3,8 % anual (antes 3,6 %) y PIB del 3.er trimestre revisado al 3,5 %."
-  ],
-  [
    "2026-11-26",
    "Acción de Gracias: Wall Street cerrado",
    "El viernes 27 la sesión será más corta y con poco volumen."
@@ -1232,7 +1392,17 @@
   [
    "2026-12-09",
    "Decisión de tasas de la Fed",
-   "Reunión 8–9 de diciembre. El mercado descuenta una subida de 0,25 %."
+   "Reunión 8–9 de diciembre. El mercado da un 98 % de probabilidad a una subida de 0,25 %."
+  ],
+  [
+   "2026-12-23",
+   "Inflación PCE de noviembre",
+   "Llega dos semanas después de la decisión de la Fed."
+  ],
+  [
+   "2027-01-10",
+   "Vence la tregua comercial con China",
+   "Los nuevos aranceles de hasta el 20 % no entrarían en vigor antes de enero."
   ]
  ],
  "cola": []
