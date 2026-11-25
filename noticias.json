@@ -1,46 +1,46 @@
 {
- "actualizado": "24 nov 2026, 4:05 p. m.",
+ "actualizado": "24 nov 2026, 9:45 p. m.",
  "cinta": [
   [
    "S&P 500",
-   "7.183,14",
-   "−0,75 % a 30 min del cierre",
+   "−0,50 %",
+   "8.ª caída en 9 sesiones",
    "d"
   ],
   [
    "NASDAQ",
-   "23.645,38",
-   "−1,84 %",
+   "−1,48 %",
+   "la tecnología cae un 3,26 %",
    "d"
   ],
   [
    "DOW",
-   "49.933,09",
-   "+0,68 %",
+   "50.018,70",
+   "+0,85 %, cierre sobre 50.000",
    "u"
   ],
   [
    "NVDA",
-   "−7,3 %",
-   "devuelve parte del +31 % del lunes",
+   "155,38 $",
+   "−5,86 % tras el +31 % del lunes",
    "d"
   ],
   [
    "ORO",
-   "3.561,9",
-   "−2 % antes del PCE",
-   "d"
-  ],
-  [
-   "PLATA",
-   "40,86",
-   "−5,1 %",
+   "3.555",
+   "−2,64 % antes del PCE",
    "d"
   ],
   [
    "DXY",
-   "103,76",
-   "−0,52 %",
+   "−0,48 %",
+   "bonos en mínimos de 2 semanas",
+   "d"
+  ],
+  [
+   "BONO 10A",
+   "4,88 %",
+   "mínimo de 2 semanas",
    "d"
   ],
   [
@@ -51,6 +51,93 @@
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-24",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "Los nuevos aranceles serán por país y con techo, según Bloomberg",
+   "paso": "Según Bloomberg, la nueva ronda de aranceles por exceso de capacidad industrial no superará los niveles fijados en los acuerdos comerciales que EE. UU. ya firmó, y se aplicará país por país en lugar de con una tasa única para todos. Reuters añade que para China se mantendría un tope del 20 % mientras siga vigente la tregua comercial. Al cierre del martes todavía no había anuncio oficial: AP dice que llegará en los próximos días y que se sumaría a los aranceles del 10 % al 12,5 % ya vigentes.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "neu",
+     "Aranceles con techo asustan menos que una subida general, pero hasta ver la lista de productos sigue el riesgo para las tecnológicas que fabrican fuera."
+    ],
+    [
+     "EURUSD",
+     "neu",
+     "La Unión Europea está en la lista; si su tasa queda en el nivel ya pactado, el golpe para el euro sería menor."
+    ],
+    [
+     "DXY",
+     "down",
+     "El martes el dólar bajó un 0,48 %, en parte por la nueva tensión comercial y por la caída de la rentabilidad de los bonos."
+    ]
+   ],
+   "clave": "El anuncio parece menos duro de lo temido: lo que mueva al mercado será la tasa final de cada país, sobre todo China y la Unión Europea.",
+   "fuente": [
+    "Bloomberg",
+    "https://www.bloomberg.com/news/articles/2026-11-24/new-trump-tariffs-won-t-top-trade-deal-levels-will-be-targeted"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Trump avisa: en dos años los chips extranjeros pagarán aranceles del 200 %",
+   "paso": "En una entrevista en CNBC, Trump dijo que en dos años los chips fabricados fuera de EE. UU. pagarán un 200 % de arancel, y añadió que si quitara los aranceles las empresas dejarían de construir fábricas en el país. Desde el 15 de enero ya rige un arancel del 25 % a ciertos chips avanzados, del que se libran las empresas que producen en EE. UU. TSMC, el gran fabricante de los chips de Nvidia y Apple, estudia una nueva planta de 22.600 millones de dólares en Texas.",
+   "impacto": [
+    [
+     "AAPL",
+     "down",
+     "Casi todos sus chips se fabrican en Taiwán: si suben los aranceles o el coste de fabricar en EE. UU., sus márgenes sufren."
+    ],
+    [
+     "NVDA",
+     "neu",
+     "También depende de TSMC, pero con márgenes altos puede pagar más por chips hechos en EE. UU. con menos daño."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Es una amenaza a dos años, no una medida inmediata, pero suma incertidumbre a todo el sector de chips."
+    ]
+   ],
+   "clave": "El mensaje es claro: quien quiera vender chips en EE. UU. tendrá que fabricarlos allí; vigila los anuncios de nuevas fábricas de TSMC.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/markets/stocks/articles/trump-warns-paying-200-percent-195922778.html"
+   ]
+  },
+  {
+   "dia": "2026-11-24",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "El Dow cierra por encima de 50.000 puntos mientras la tecnología cae un 3,3 %",
+   "paso": "Al cierre del martes, el Dow Jones subió un 0,85 %, hasta 50.018,70 puntos, empujado por salud, consumo y empresas de valor. En cambio, el Nasdaq bajó un 1,48 % y el S&P 500 un 0,50 %, su octava caída en nueve sesiones: la tecnología fue el único gran sector en rojo (−3,26 %). Nvidia cerró con −5,86 %, en 155,38 $, y el oro bajó un 2,64 %, hasta 3.555 $.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Devuelve parte del +31 % del lunes: tras un salto tan grande, muchos venden para asegurar ganancias."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "El índice depende mucho de los chips: cuando ellos caen, el Nasdaq cae más que el resto del mercado."
+    ],
+    [
+     "DOW",
+     "up",
+     "El dinero no se va de la bolsa: sale de la IA y entra en salud, consumo y empresas más baratas."
+    ]
+   ],
+   "clave": "La bolsa no cae entera, el dinero rota fuera de la IA: mientras los chips sigan nerviosos, el Nasdaq lo hará peor que el Dow.",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+   ]
+  },
   {
    "dia": "2026-11-24",
    "cat": "USD",
@@ -1128,6 +1215,11 @@
    "Gran conferencia anual de la nube de Amazon: atentos a novedades de sus chips Trainium."
   ],
   [
+   "2026-12-01",
+   "Nvidia GTC en Washington y Huang ante la Cámara",
+   "Conferencia de Nvidia y entrevista a puerta cerrada de Huang con tres comités de la Cámara."
+  ],
+  [
    "2026-12-03",
    "Junta anual de accionistas de Tesla",
    "No incluye votación sobre la fusión con SpaceX."
@@ -1143,35 +1235,5 @@
    "Reunión 8–9 de diciembre. El mercado descuenta una subida de 0,25 %."
   ]
  ],
- "cola": [
-  {
-   "dia": "2026-11-24",
-   "cat": "M7",
-   "score": 6,
-   "titulo": "El Dow cierra por encima de 50.000 puntos mientras la tecnología cae un 3,3 %",
-   "paso": "Al cierre del martes, el Dow Jones subió un 0,85 %, hasta 50.018,70 puntos, empujado por salud, consumo y empresas de valor. En cambio, el Nasdaq bajó un 1,48 % y el S&P 500 un 0,50 %, su octava caída en nueve sesiones: la tecnología fue el único gran sector en rojo (−3,26 %). Nvidia cerró con −5,86 %, en 155,38 $, y el oro bajó un 2,64 %, hasta 3.555 $.",
-   "impacto": [
-    [
-     "NVDA",
-     "down",
-     "Devuelve parte del +31 % del lunes: tras un salto tan grande, muchos venden para asegurar ganancias."
-    ],
-    [
-     "NASDAQ",
-     "down",
-     "El índice depende mucho de los chips: cuando ellos caen, el Nasdaq cae más que el resto del mercado."
-    ],
-    [
-     "DOW",
-     "up",
-     "El dinero no se va de la bolsa: sale de la IA y entra en salud, consumo y empresas más baratas."
-    ]
-   ],
-   "clave": "La bolsa no cae entera, el dinero rota fuera de la IA: mientras los chips sigan nerviosos, el Nasdaq lo hará peor que el Dow.",
-   "fuente": [
-    "CappNotes",
-    "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
-   ]
-  }
- ]
+ "cola": []
 }
