@@ -1,5 +1,5 @@
 {
- "actualizado": "25 nov 2026, 12:47 p. m.",
+ "actualizado": "25 nov 2026, 3:47 p. m.",
  "cinta": [
   [
    "PCE",
@@ -20,27 +20,27 @@
    "u"
   ],
   [
-   "NASDAQ 100",
-   "−4,5 %",
-   "miércoles, cerca del mercado bajista",
+   "NASDAQ",
+   "−0,6 %",
+   "tras caer hasta −4,6 % en el día",
    "d"
   ],
   [
-   "S&P 500",
-   "≈ −3 %",
-   "miércoles a media sesión",
-   "d"
+   "DOW JONES",
+   "+0,6 %",
+   "sube unos 300 puntos",
+   "u"
   ],
   [
    "NVDA",
-   "142,38 $",
-   "−8,37 %",
+   "148,38 $",
+   "−4,51 %",
    "d"
   ],
   [
-   "BONOS 2 Y 10 AÑOS",
-   "−0,10 pts",
-   "rentabilidad a la baja",
+   "ORO",
+   "3.454 $",
+   "mínimo desde sept. 2025",
    "d"
   ],
   [
@@ -51,6 +51,93 @@
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Remontada en Wall Street: el Nasdaq recorta su caída del 4,6 % a solo un 0,6 %",
+   "paso": "Tras tocar mínimos por la mañana, la bolsa se recuperó con fuerza en la tarde del miércoles. En su peor momento, el Nasdaq perdía un 4,6 %, el S&P 500 un 3,2 % y el Dow Jones más de 1.100 puntos (2,2 %). A media tarde el Nasdaq bajaba solo un 0,6 %, el S&P 500 un 0,2 % y el Dow ya subía un 0,6 % (unos 300 puntos). Nvidia recortó su caída del 8 % a cerca del 5 %, hasta 148,38 $; Meta subía casi un 2,5 % y Alphabet bajaba cerca de un 3 %.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "Recuperar casi 4 puntos en una sesión muestra que hay compradores en las caídas, aunque la tecnología sigue en rojo."
+    ],
+    [
+     "NVDA",
+     "down",
+     "Sigue siendo la más castigada: el mercado aún duda del gasto en IA, aunque ya no se vende con pánico."
+    ],
+    [
+     "META · GOOGL",
+     "neu",
+     "Las grandes tecnológicas se separan: Meta sube y Alphabet cae, señal de que el mercado ya elige empresa por empresa."
+    ]
+   ],
+   "clave": "El pánico de la mañana se calmó, pero con el festivo del jueves y media sesión el viernes, el poco volumen puede traer nuevos sustos: no persigas el rebote.",
+   "fuente": [
+    "Investopedia",
+    "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El oro cae por debajo de 3.500 $ y marca su nivel más bajo desde 2025",
+   "paso": "El oro al contado llegó a caer un 2,8 % el miércoles, hasta 3.454 $ la onza, y rompió los 3.500 $ por primera vez desde septiembre de 2025. Ya pierde cerca de un 37 % desde su récord de enero. Lo empujan la inflación PCE más alta, el PIB revisado al 4,3 % y la venta de activos para cubrir pérdidas en la bolsa. La plata bajaba cerca de un 3,8 %, hasta unos 39,37 $.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "down",
+     "El oro no paga intereses: si la Fed sigue subiendo tasas, los bonos y el dólar le ganan en atractivo."
+    ],
+    [
+     "PLATA",
+     "down",
+     "La plata cae más que el oro cuando se venden metales: es la más sensible a las ventas forzadas."
+    ],
+    [
+     "DXY",
+     "up",
+     "El dinero que sale del oro y de la bolsa busca refugio en el dólar y en los bonos de EE. UU."
+    ]
+   ],
+   "clave": "Romper los 3.500 $ es una señal técnica débil para el oro: mientras la Fed siga subiendo tasas, los rebotes pueden ser cortos.",
+   "fuente": [
+    "TradingKey",
+    "https://www.tradingkey.com/analysis/commodities/metal/262322306-gold-drop-3500-gdp-pce-fed-rate-hike-what-reasons-prices-to-fall-tradingkey"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El Libro Beige de la Fed: la economía crece poco y los costes siguen subiendo",
+   "paso": "La Fed publicó su Libro Beige, un resumen de lo que cuentan las empresas en sus 12 regiones. La mayoría reportó un crecimiento de leve a moderado y cuatro regiones no vieron cambios. Los precios subieron de forma moderada, por energía, transporte, salud, seguros y aranceles, y las empresas esperan que sigan subiendo. El empleo creció poco y la venta de viviendas se frenó con hipotecas por encima del 7 %.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Si los costes no bajan, la Fed tiene más motivos para subir tasas en diciembre, y eso sostiene al dólar."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Una economía que crece despacio con precios altos no ayuda a las tecnológicas, pero el informe no trajo sorpresas."
+    ],
+    [
+     "XAUUSD",
+     "down",
+     "Más inflación esperada significa tasas altas por más tiempo, un viento en contra para el oro."
+    ]
+   ],
+   "clave": "Es el último informe antes de la reunión del 9 de diciembre y confirma el guion: precios que no ceden y una Fed lista para subir.",
+   "fuente": [
+    "Yahoo Finance",
+    "https://finance.yahoo.com/economy/policy/article/feds-beige-book-shows-evidence-of-broadening-price-pressures-200555194.html"
+   ]
+  },
   {
    "dia": "2026-11-25",
    "cat": "M7",
