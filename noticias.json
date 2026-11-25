@@ -1,6 +1,36 @@
 {
- "actualizado": "25 nov 2026, 3:47 p. m.",
+ "actualizado": "25 nov 2026, 6:45 p. m.",
  "cinta": [
+  [
+   "NASDAQ",
+   "−0,62 %",
+   "cierre en 23.585,80 tras caer hasta −4,6 %",
+   "d"
+  ],
+  [
+   "DOW JONES",
+   "+0,33 %",
+   "cierre en 50.182,95",
+   "u"
+  ],
+  [
+   "NVDA",
+   "149,30 $",
+   "−3,91 % al cierre",
+   "d"
+  ],
+  [
+   "GOOGL",
+   "273,12 $",
+   "−2,13 %; seguro de su deuda en récord",
+   "d"
+  ],
+  [
+   "DXY",
+   "103,62",
+   "−0,22 % en el día",
+   "d"
+  ],
   [
    "PCE",
    "3,8 %",
@@ -18,39 +48,67 @@
    "4,3 %",
    "se esperaba 3,5 %",
    "u"
-  ],
-  [
-   "NASDAQ",
-   "−0,6 %",
-   "tras caer hasta −4,6 % en el día",
-   "d"
-  ],
-  [
-   "DOW JONES",
-   "+0,6 %",
-   "sube unos 300 puntos",
-   "u"
-  ],
-  [
-   "NVDA",
-   "148,38 $",
-   "−4,51 %",
-   "d"
-  ],
-  [
-   "ORO",
-   "3.454 $",
-   "mínimo desde sept. 2025",
-   "d"
-  ],
-  [
-   "ARANCEL VIETNAM",
-   "35 %",
-   "tope propuesto por EE. UU.",
-   "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Asegurar la deuda de Alphabet cuesta más que nunca y su acción llega a caer un 5,6 %",
+   "paso": "El coste de los seguros contra un impago de la deuda de Alphabet (los CDS a cinco años) marcó un récord, igual que los de Oracle, SpaceX y CoreWeave, según datos de S&P Global citados por Reuters. Preocupa cuánto gasta en IA: en el tercer trimestre invirtió 51.400 millones de dólares y su flujo de caja libre fue negativo (−9.100 millones), así que se está endeudando. La acción llegó a caer un 5,56 %, hasta 263,53 $, tras la apertura y cerró con −2,13 %, en 273,12 $.",
+   "impacto": [
+    [
+     "GOOGL",
+     "down",
+     "Si los prestamistas piden más por asegurar su deuda, el mercado duda de que el gasto en IA se pague solo, y la acción pierde atractivo."
+    ],
+    [
+     "MSFT · AMZN · META",
+     "neu",
+     "También gastan miles de millones en centros de datos: si el mercado de deuda empieza a castigar ese gasto, pueden ser los siguientes."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "El miedo ya no es solo de los accionistas, también de quienes prestan dinero: es una señal de alerta para todo el sector de IA."
+    ]
+   ],
+   "clave": "Alphabet no está en riesgo real de impago, pero el mercado de deuda empieza a pedir pruebas de que la IA dará dinero: vigila si su flujo de caja vuelve a ser positivo.",
+   "fuente": [
+    "Stock Analysis (Reuters)",
+    "https://stockanalysis.com/news/ai-debt-insurance-costs-hit-records/"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El dólar cambia de rumbo y cierra en baja: el yen y el franco suizo ganan como refugio",
+   "paso": "Tras subir por encima de 104 por la mañana, el índice del dólar (DXY) terminó el miércoles con una caída del 0,22 %, en 103,62, según Reuters. En el día de más nervios en la bolsa, el dinero buscó refugio en el franco suizo (el dólar perdió un 0,63 % frente a él) y en el yen (USDJPY en 159,13). El euro subía un 0,17 %, hasta 1,0983 dólares.",
+   "impacto": [
+    [
+     "DXY",
+     "down",
+     "Ni la inflación alta ni el PIB fuerte bastaron: cuando la bolsa se asusta, parte del dinero prefiere el yen y el franco."
+    ],
+    [
+     "EURUSD",
+     "up",
+     "Con el dólar más flojo, el euro se mantiene cerca de 1,10, lejos de su mínimo de 19 meses."
+    ],
+    [
+     "USDJPY",
+     "down",
+     "El yen recupera algo de su papel de refugio y el par se aleja un poco de 160."
+    ]
+   ],
+   "clave": "El dólar sigue fuerte en noviembre, pero en los días de pánico no siempre es el refugio preferido: vigila el franco y el yen.",
+   "fuente": [
+    "Global Banking & Finance Review (Reuters)",
+    "https://www.globalbankingandfinance.com/dollar-takes-breather-ahead-us-data-fed-path-aussie-jumps/"
+   ]
+  },
   {
    "dia": "2026-11-25",
    "cat": "M7",
