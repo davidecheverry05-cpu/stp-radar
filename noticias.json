@@ -1,5 +1,5 @@
 {
- "actualizado": "25 nov 2026, 6:45 p. m.",
+ "actualizado": "25 nov 2026, 9:50 p. m.",
  "cinta": [
   [
    "NASDAQ",
@@ -8,28 +8,34 @@
    "d"
   ],
   [
-   "DOW JONES",
-   "+0,33 %",
-   "cierre en 50.182,95",
-   "u"
-  ],
-  [
    "NVDA",
    "149,30 $",
-   "−3,91 % al cierre",
-   "d"
-  ],
-  [
-   "GOOGL",
-   "273,12 $",
-   "−2,13 %; seguro de su deuda en récord",
+   "−3,91 %; S&P vigila su nota AA",
    "d"
   ],
   [
    "DXY",
-   "103,62",
-   "−0,22 % en el día",
+   "103,71",
+   "−0,10 % al cierre del miércoles",
    "d"
+  ],
+  [
+   "BONO 10 AÑOS",
+   "4,85 %",
+   "−0,06 puntos: compras de refugio",
+   "d"
+  ],
+  [
+   "ORO",
+   "3.534,70 $",
+   "−0,71 %; tocó menos de 3.500 $",
+   "d"
+  ],
+  [
+   "BRENT",
+   "94,61 $",
+   "+3,51 % por el ataque a Ras Tanura",
+   "u"
   ],
   [
    "PCE",
@@ -38,19 +44,90 @@
    "u"
   ],
   [
-   "PCE SUBYACENTE",
-   "3,3 %",
-   "se esperaba 3,2 %",
-   "u"
-  ],
-  [
-   "PIB 3T",
-   "4,3 %",
-   "se esperaba 3,5 %",
+   "NIKKEI",
+   "+1,6 %",
+   "rebote en Asia el jueves",
    "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-26",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Asia rebota tras el susto: el Nikkei sube un 1,6 % y Corea un 1,9 %",
+   "paso": "En la mañana del jueves en Asia, el Nikkei japonés subía un 1,6 % y el principal índice de Corea del Sur un 1,9 %, tras las fuertes caídas del miércoles, según Reuters. Los futuros del S&P 500 ganaban un 0,5 % y los del Nasdaq un 0,4 %, aunque Wall Street estará cerrado el jueves por Acción de Gracias. Aun así, en noviembre la bolsa de Corea pierde un 16 % y la de Taiwán un 15 %.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "Los futuros en verde apuntan a que el rebote de la tarde del miércoles podría seguir el viernes."
+    ],
+    [
+     "NVDA",
+     "neu",
+     "Sus proveedores en Corea y Taiwán respiran, pero el aviso de S&P sobre su nota de crédito sigue pesando."
+    ]
+   ],
+   "clave": "Es un respiro en un mes muy malo para los chips de Asia: el viernes, con media sesión y poco volumen, cualquier movimiento puede exagerarse.",
+   "fuente": [
+    "PiQ Markets (Reuters)",
+    "https://piqmarkets.com/story/asian-shares-rise-nvidia-rating-watch-and-new-us-tariffs-weigh"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "S&P amenaza con bajar la nota de crédito de Nvidia por dudas sobre su junta directiva",
+   "paso": "La agencia S&P Global Ratings puso en vigilancia negativa la calificación AA de Nvidia y de su deuda, un aviso formal de que podría rebajarla. Dice que la salida y el regreso de Jensen Huang no responden sus dudas sobre cómo la junta controla al CEO, y critica la falta de un plan de sucesión y la larga permanencia de algunos consejeros. Decidirá en un plazo de 90 días y cree que, si baja la nota, será solo un escalón. La acción cerró el miércoles con −3,91 %, en 149,30 $.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Una nota algo más baja no pone en riesgo sus pagos, pero confirma que el problema de gobierno de la empresa sigue abierto y eso pesa sobre la acción."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Por sí sola no mueve el índice, pero mantiene a Nvidia, la empresa de más peso, en el centro de las dudas."
+    ]
+   ],
+   "clave": "A Nvidia no le falta dinero; lo que el mercado vigila es si la junta anuncia cambios. Las citas de Huang con el Congreso el 1 y el 3 de diciembre serán la próxima prueba.",
+   "fuente": [
+    "Stock Analysis",
+    "https://stockanalysis.com/news/nvidia-sp-rating-creditwatch-negative/"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El petróleo sube un 3,5 % tras un ataque hutí a la mayor refinería de Arabia Saudí",
+   "paso": "Los hutíes de Yemen atacaron la zona de Ras Tanura, donde está la mayor refinería de Arabia Saudí. El ataque disparó el precio del crudo: el Brent cerró con una subida del 3,51 %, en 94,61 $ el barril, y el petróleo de EE. UU. (WTI) con +1,99 %, en 83,68 $.",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "Un petróleo más caro puede subir la inflación en EE. UU. y darle a la Fed otra razón para subir tasas."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "La energía más cara sube costes y transporte, pero hoy la bolsa miró más a la IA que al crudo."
+    ],
+    [
+     "XAUUSD",
+     "neu",
+     "Pese al riesgo en Oriente Medio, el oro cerró en baja: hoy pesan más las tasas altas que su papel de refugio."
+    ]
+   ],
+   "clave": "Mientras no se confirme que se cortan las exportaciones saudíes, la subida del crudo puede deshacerse: vigila la reunión de la OPEP+ del 29 de noviembre.",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-wednesday-november-25"
+   ]
+  },
   {
    "dia": "2026-11-25",
    "cat": "M7",
@@ -1600,6 +1677,11 @@
    "2026-11-26",
    "Acción de Gracias: Wall Street cerrado",
    "El viernes 27 la sesión será más corta y con poco volumen."
+  ],
+  [
+   "2026-11-29",
+   "Reunión de la OPEP+",
+   "Decide la producción de petróleo para 2027: puede mover el crudo y la inflación."
   ],
   [
    "2026-11-30",
