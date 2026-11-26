@@ -1,11 +1,17 @@
 {
- "actualizado": "26 nov 2026, 6:55 a. m.",
+ "actualizado": "26 nov 2026, 12:50 p. m.",
  "cinta": [
   [
    "NASDAQ",
    "−0,62 %",
    "cierre del miércoles en 23.585,80",
    "d"
+  ],
+  [
+   "META",
+   "609,89 $",
+   "+3,40 % por la charla con Amazon",
+   "u"
   ],
   [
    "NVDA",
@@ -15,42 +21,108 @@
   ],
   [
    "DXY",
-   "103,45",
-   "jueves; tocó mínimo de una semana",
-   "d"
-  ],
-  [
-   "EURUSD",
-   "1,0970",
-   "estable tras su mínimo de 1,0881",
+   "103,68",
+   "jueves festivo; máximo de la semana 104,59",
    "n"
   ],
   [
+   "EURUSD",
+   "1,0986",
+   "+0,10 % tras las actas del BCE",
+   "u"
+  ],
+  [
    "USDJPY",
-   "159,15",
-   "justo por debajo de 160",
+   "159,00",
+   "lucha por mantener 159",
    "n"
   ],
   [
    "ORO",
-   "3.575 $",
-   "rebota desde 3.426 $, mínimo de 15 meses",
-   "u"
+   "3.569 $",
+   "estable tras rebotar desde 3.426 $",
+   "n"
   ],
   [
    "PCE",
    "3,8 %",
    "inflación anual de octubre",
    "u"
-  ],
-  [
-   "STOXX 600",
-   "+1,4 %",
-   "Europa rebota el jueves",
-   "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-26",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "Las actas del BCE apuntan a otra subida de tasas en Europa y el euro sube un poco",
+   "paso": "Las actas de la reunión de octubre del Banco Central Europeo muestran que muchos de sus miembros podrían haber apoyado ya entonces una subida de tasas, y que ven probable subir de nuevo salvo que la inflación mejore mucho. Eso refuerza la apuesta por una subida en diciembre. Con poco volumen por Acción de Gracias, el EURUSD subía un 0,10 %, hasta 1,0986, y el índice del dólar (DXY) rondaba 103,68, por debajo del máximo de 20 meses (104,59) que tocó esta semana.",
+   "impacto": [
+    [
+     "EURUSD",
+     "up",
+     "Si el BCE también sube tasas, el euro paga más y frena su caída frente al dólar."
+    ],
+    [
+     "DXY",
+     "neu",
+     "La Fed sigue casi segura de subir en diciembre: el dólar mantiene su ventaja, pero la diferencia con Europa ya no crece tanto."
+    ]
+   ],
+   "clave": "No solo la Fed sube tasas: si el BCE la acompaña el 17 de diciembre, el euro tiene un apoyo para no seguir cayendo.",
+   "fuente": [
+    "FXStreet",
+    "https://www.fxstreet.com/news/euro-ticks-higher-as-ecb-minutes-reveal-appetite-for-further-tightening-202611261440"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Meta sube un 3,4 % por sus conversaciones con Amazon sobre su asistente de compras Muse",
+   "paso": "Según la revista Fortune, Meta y Amazon han tenido varias reuniones para que Muse, el asistente de compras con IA de Meta, pueda volver a comprar en la tienda de Amazon, que lo bloqueó en septiembre. Aún no hay acuerdo: falta decidir cómo se muestran los resultados de búsqueda y qué pasa con la publicidad, y debe aprobarlo el CEO de cada empresa. Meta cerró el miércoles en 609,89 $ (+3,40 %), mientras Amazon bajó un 3,12 % y el Nasdaq 100 un 0,65 %.",
+   "impacto": [
+    [
+     "META",
+     "up",
+     "Muse ya tiene más de 10 millones de usuarios en EE. UU. y Canadá: entrar en Amazon le daría mucho más uso y comisiones por venta."
+    ],
+    [
+     "AMZN",
+     "neu",
+     "Amazon teme que un asistente externo se salte los anuncios de su web, que son un gran negocio: por eso negocia con cuidado."
+    ]
+   ],
+   "clave": "Es solo una negociación, no un acuerdo: si se firma, Meta gana un gran escaparate para su IA; si se rompe, la subida puede deshacerse.",
+   "fuente": [
+    "Gotrade (Fortune)",
+    "https://www.heygotrade.com/en/news/meta-meta-stock-news-november-26-2026/"
+   ]
+  },
+  {
+   "dia": "2026-11-25",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Tesla cae hasta un 6 % porque la UE vuelve a aplazar el voto sobre su conducción asistida",
+   "paso": "La Comisión Europea movió del 1 al 15 de diciembre la votación del comité técnico de vehículos (TCMV) sobre el sistema de conducción asistida de Tesla, sin dar motivo; ya hubo dos reuniones sin voto. Para aprobarlo en toda la UE hacen falta al menos 15 de los 27 países y el 65 % de la población; hoy lo reconocen 12 países (cerca del 29 %), y Francia y Suecia tienen dudas porque el sistema puede superar el límite de velocidad. La acción llegó a caer un 6 % el miércoles, hasta 362,91 $, y pierde cerca de un 19 % en el año.",
+   "impacto": [
+    [
+     "TSLA",
+     "down",
+     "Cada retraso en Europa aplaza ingresos por suscripciones de conducción asistida, una de las grandes promesas de crecimiento de Tesla."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Por sí sola no mueve el índice, pero se sumó a un día de fuertes ventas en tecnología."
+    ]
+   ],
+   "clave": "La fecha clave ahora es el 15 de diciembre: si la UE rechaza el sistema, incluso las aprobaciones nacionales ya concedidas quedarían anuladas.",
+   "fuente": [
+    "Electrek (Reuters)",
+    "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/"
+   ]
+  },
   {
    "dia": "2026-11-26",
    "cat": "M7",
@@ -1685,9 +1757,14 @@
    "Reunión 8–9 de diciembre. El mercado da un 98 % de probabilidad a una subida de 0,25 %."
   ],
   [
+   "2026-12-15",
+   "Voto de la UE sobre la conducción asistida de Tesla",
+   "El comité técnico decide si aprueba el sistema en toda la UE: puede mover a TSLA."
+  ],
+  [
    "2026-12-17",
    "Decisión de tasas del BCE",
-   "El mercado busca señales de una subida en diciembre: puede mover el EURUSD."
+   "Las actas de octubre apuntan a una subida: puede mover el EURUSD."
   ],
   [
    "2026-12-18",
