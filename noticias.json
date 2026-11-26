@@ -1,5 +1,5 @@
 {
- "actualizado": "26 nov 2026, 12:50 p. m.",
+ "actualizado": "26 nov 2026, 6:50 p. m.",
  "cinta": [
   [
    "NASDAQ",
@@ -21,26 +21,26 @@
   ],
   [
    "DXY",
-   "103,68",
-   "jueves festivo; máximo de la semana 104,59",
+   "103,78",
+   "+0,07 % en un festivo tranquilo",
    "n"
   ],
   [
    "EURUSD",
-   "1,0986",
-   "+0,10 % tras las actas del BCE",
-   "u"
+   "1,0971",
+   "−0,05 % tras tres días de rebote",
+   "n"
   ],
   [
    "USDJPY",
-   "159,00",
-   "lucha por mantener 159",
+   "159,28",
+   "IPC de Tokio 2,9 % (esperado 3,0 %)",
    "n"
   ],
   [
    "ORO",
-   "3.569 $",
-   "estable tras rebotar desde 3.426 $",
+   "3.571 $",
+   "recupera 145 $ desde el mínimo de 3.426 $",
    "n"
   ],
   [
@@ -51,6 +51,59 @@
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-26",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "La inflación de Tokio sale más baja de lo esperado y el yen apenas se mueve",
+   "paso": "En noviembre, la inflación subyacente de Tokio (sin alimentos frescos) subió al 2,9 % anual desde el 2,6 %, pero quedó por debajo del 3,0 % previsto. La medida que además quita la energía bajó al 2,3 % (2,4 % en octubre), lejos del 3,0 % esperado. Horas antes, Naoki Tamura, del Banco de Japón, había pedido acelerar las subidas de tasas si la inflación se desvía al alza. El USDJPY casi no reaccionó: quedó en 159,28.",
+   "impacto": [
+    [
+     "USDJPY",
+     "neu",
+     "Una inflación menor de lo previsto le quita algo de urgencia a la subida del Banco de Japón del 18 de diciembre, y eso no ayuda al yen."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El yen pesa en el índice del dólar: mientras Japón no suba tasas con más fuerza, el dólar mantiene su ventaja frente al yen."
+    ]
+   ],
+   "clave": "La subida del Banco de Japón en diciembre sigue siendo lo esperado, pero este dato no la refuerza: el USDJPY sigue cerca de 160, la zona de riesgo de intervención.",
+   "fuente": [
+    "FXStreet",
+    "https://www.fxstreet.com/news/breaking-japans-tokyo-cpi-inflation-climbs-28-in-november-202611262331"
+   ]
+  },
+  {
+   "dia": "2026-11-26",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "China rechaza los nuevos aranceles de EE. UU. y se guarda el derecho a responder",
+   "paso": "El Ministerio de Comercio de China dijo que se opone con firmeza a los aranceles propuestos por EE. UU.: hasta 20 % para China, que podrían llegar al 40 % si fallan las negociaciones. Avisó que se reserva el derecho a tomar «medidas necesarias», pero no anunció ninguna represalia concreta. Al mismo tiempo, pidió acelerar el acuerdo de rebajas mutuas de aranceles y mantener la tregua comercial, y dijo que los equipos de ambos países siguen en contacto.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "neu",
+     "Sin represalias concretas por ahora, el golpe es limitado; si China responde con medidas, las tecnológicas que fabrican o venden allí sufrirían."
+    ],
+    [
+     "AAPL · TSLA",
+     "neu",
+     "Fabrican y venden mucho en China: son de las más expuestas si la disputa crece."
+    ],
+    [
+     "DXY",
+     "neu",
+     "Una guerra comercial más dura puede subir la inflación en EE. UU. (apoyo al dólar), pero también frenar el crecimiento."
+    ]
+   ],
+   "clave": "China protesta, pero sin romper la tregua: el riesgo real llega si las negociaciones fallan y el arancel sube al 40 %. Vigila el 5 de enero.",
+   "fuente": [
+    "MLQ.ai (Xinhua)",
+    "https://mlq.ai/news/china-rejects-new-20-us-tariff-plan-reserves-right-to-respond/"
+   ]
+  },
   {
    "dia": "2026-11-26",
    "cat": "USD",
@@ -1722,14 +1775,19 @@
  ],
  "agenda": [
   [
-   "2026-11-26",
-   "Acción de Gracias: Wall Street cerrado",
-   "El viernes 27 la sesión será más corta y con poco volumen."
+   "2026-11-27",
+   "Media sesión en Wall Street",
+   "Tras Acción de Gracias la bolsa cierra antes y con poco volumen: los movimientos pueden exagerarse."
   ],
   [
    "2026-11-29",
    "Reunión de la OPEP+",
    "Decide la producción de petróleo para 2027: puede mover el crudo y la inflación."
+  ],
+  [
+   "2026-11-30",
+   "Discurso de Ueda (Banco de Japón)",
+   "El gobernador habla ante empresarios en Nagoya: pistas sobre la subida de diciembre y el USDJPY."
   ],
   [
    "2026-11-30",
