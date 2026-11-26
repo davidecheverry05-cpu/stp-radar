@@ -1,40 +1,40 @@
 {
- "actualizado": "25 nov 2026, 9:50 p. m.",
+ "actualizado": "26 nov 2026, 6:55 a. m.",
  "cinta": [
   [
    "NASDAQ",
    "−0,62 %",
-   "cierre en 23.585,80 tras caer hasta −4,6 %",
+   "cierre del miércoles en 23.585,80",
    "d"
   ],
   [
    "NVDA",
    "149,30 $",
-   "−3,91 %; S&P vigila su nota AA",
+   "frena envíos a 4 países de Asia",
    "d"
   ],
   [
    "DXY",
-   "103,71",
-   "−0,10 % al cierre del miércoles",
+   "103,45",
+   "jueves; tocó mínimo de una semana",
    "d"
   ],
   [
-   "BONO 10 AÑOS",
-   "4,85 %",
-   "−0,06 puntos: compras de refugio",
-   "d"
+   "EURUSD",
+   "1,0970",
+   "estable tras su mínimo de 1,0881",
+   "n"
+  ],
+  [
+   "USDJPY",
+   "159,15",
+   "justo por debajo de 160",
+   "n"
   ],
   [
    "ORO",
-   "3.534,70 $",
-   "−0,71 %; tocó menos de 3.500 $",
-   "d"
-  ],
-  [
-   "BRENT",
-   "94,61 $",
-   "+3,51 % por el ataque a Ras Tanura",
+   "3.575 $",
+   "rebota desde 3.426 $, mínimo de 15 meses",
    "u"
   ],
   [
@@ -44,13 +44,71 @@
    "u"
   ],
   [
-   "NIKKEI",
-   "+1,6 %",
-   "rebote en Asia el jueves",
+   "STOXX 600",
+   "+1,4 %",
+   "Europa rebota el jueves",
    "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-26",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Nvidia frena la venta de sus servidores a cuatro países del sudeste asiático",
+   "paso": "Según el Financial Times, Nvidia ordenó a los fabricantes que montan sus servidores, como Dell y Supermicro, que no envíen pedidos a Malasia, Singapur, Tailandia e Indonesia. Responde a una nueva regla de EE. UU., vigente desde el 19 de noviembre, que exige licencia para vender chips avanzados de IA a esos países, usados por empresas chinas para saltarse las restricciones. No se sabe si el freno es temporal. La filial de Nvidia en Singapur facturó 104.000 millones de dólares en 2025, un 72 % más que en 2024.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Si los envíos a la región siguen frenados, parte de sus ventas puede retrasarse; la acción reaccionará el viernes, con media sesión."
+    ],
+    [
+     "MSFT · AMZN · GOOGL",
+     "neu",
+     "Las empresas con sede en EE. UU. quedan exentas si el vendedor informa de la venta: sus centros de datos en la región corren menos riesgo."
+    ],
+    [
+     "NASDAQ",
+     "down",
+     "Es otra duda para los chips justo cuando el sector intenta rebotar."
+    ]
+   ],
+   "clave": "El problema no es la demanda sino los permisos: vigila si Nvidia aclara cuándo vuelve a enviar y cómo abre la acción el viernes.",
+   "fuente": [
+    "Stock Analysis (Financial Times)",
+    "https://stockanalysis.com/news/nvidia-halts-server-shipments-southeast-asia/"
+   ]
+  },
+  {
+   "dia": "2026-11-26",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El dólar se toma un respiro en Acción de Gracias, cerca de sus máximos del año",
+   "paso": "Con Wall Street cerrado, el índice del dólar (DXY) tocó un mínimo de una semana durante la noche y el jueves por la mañana rondaba 103,45. El euro se mantenía cerca de 1,0970 y el USDJPY en torno a 159,15, justo por debajo de 160, la zona donde Japón podría intervenir. Tras el PCE, el mercado sigue dando por hecha una subida de 0,25 % de la Fed el 9 de diciembre y otra en enero, pero las rentabilidades de los bonos bajaron y la probabilidad de una tercera subida cayó a cerca de una de cada tres (era 50 % el martes).",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "La inflación alta sostiene al dólar, pero no subió con el dato: puede ser señal de que su subida se cansa. El soporte clave está en 103,23."
+    ],
+    [
+     "EURUSD",
+     "neu",
+     "El euro se estabiliza cerca de 1,097 tras su mínimo de 1,0881: parece una pausa, no un cambio de tendencia."
+    ],
+    [
+     "USDJPY",
+     "neu",
+     "El riesgo de que Japón intervenga y un Banco de Japón más duro frenan al par cerca de 160."
+    ]
+   ],
+   "clave": "Con poco volumen por el festivo, cualquier titular puede mover mucho al dólar: vigila el soporte de 103,23 en el DXY.",
+   "fuente": [
+    "DailyForex",
+    "https://www.dailyforex.com/forex-news/2026/11/forex-today-26-november-2026/252208"
+   ]
+  },
   {
    "dia": "2026-11-26",
    "cat": "M7",
@@ -1451,40 +1509,6 @@
    ]
   },
   {
-   "dia": "2026-11-18",
-   "cat": "USD",
-   "score": 9,
-   "titulo": "La Fed casi confirma una subida de tasas en diciembre",
-   "paso": "La Fed publicó las notas de su última reunión: casi todos sus miembros quieren subir las tasas de interés en diciembre. Algunos hasta hablan de subirlas el doble de lo normal (0,50 % en vez de 0,25 %) si la inflación sigue alta.",
-   "impacto": [
-    [
-     "DXY",
-     "up",
-     "Tasas más altas = tener dólares paga más. Entra dinero de todo el mundo y el dólar se fortalece."
-    ],
-    [
-     "EURUSD",
-     "down",
-     "Es euro contra dólar: si el dólar gana fuerza, el par tiende a bajar."
-    ],
-    [
-     "ORO",
-     "down",
-     "El oro no paga intereses. Cuando el dólar y los bonos pagan más, el oro pierde atractivo."
-    ],
-    [
-     "NASDAQ",
-     "down",
-     "Con el dinero más caro, las tecnológicas (que valen por lo que ganarán en el futuro) se ven menos atractivas."
-    ]
-   ],
-   "clave": "La subida es casi segura. La duda es si será de 0,25 % o 0,50 %: si es 0,50 %, todo este efecto será más fuerte.",
-   "fuente": [
-    "Federal Reserve",
-    "https://federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
-   ]
-  },
-  {
    "dia": "2026-11-19",
    "cat": "M7",
    "score": 8,
@@ -1579,54 +1603,6 @@
     "Blockonomi",
     "https://blockonomi.com/?p=219958"
    ]
-  },
-  {
-   "dia": "2026-11-18",
-   "cat": "USD",
-   "score": 8,
-   "titulo": "El oro cae a su nivel más bajo en 14 meses",
-   "paso": "El oro tocó 3.719 $ por onza, su precio más bajo desde septiembre de 2025. Coincidió con el dólar en máximos de 19 meses y los bonos de EE. UU. pagando más por la expectativa de nuevas subidas de tasas.",
-   "impacto": [
-    [
-     "XAUUSD",
-     "down",
-     "Dólar fuerte + tasas al alza es la peor combinación para el oro: cuesta más comprarlo y rinde menos que un bono."
-    ],
-    [
-     "DXY",
-     "up",
-     "Es la otra cara de la moneda: el dinero que sale del oro busca rentabilidad en dólares."
-    ]
-   ],
-   "clave": "Mientras la Fed siga en modo subida, el oro va contra corriente. Un dato débil en EE. UU. sería su mejor aliado para rebotar.",
-   "fuente": [
-    "Nation Thailand",
-    "https://www.nationthailand.com/business/trading-investment/40073658"
-   ]
-  },
-  {
-   "dia": "2026-11-18",
-   "cat": "M7",
-   "score": 7,
-   "titulo": "Las 7 Magníficas ya no van juntas: Apple arriba, Nvidia abajo",
-   "paso": "En 2026 Apple sube un 29,4 % y está a solo un 1,2 % de su récord. En cambio, Nvidia, Tesla y Alphabet siguen más de un 20 % por debajo de sus máximos. Solo Apple y Amazon le ganan al S&P 500 este año.",
-   "impacto": [
-    [
-     "AAPL",
-     "up",
-     "El mercado la premia por depender menos del gasto en inteligencia artificial."
-    ],
-    [
-     "NVDA · TSLA · GOOGL",
-     "down",
-     "Siguen lejos de sus máximos: el mercado castiga a las más expuestas a la IA."
-    ]
-   ],
-   "clave": "Ya no basta con comprar las 7. Entre la mejor (Apple) y la peor (Nvidia) hay 46 puntos de diferencia en el año.",
-   "fuente": [
-    "24/7 Wall St.",
-    "https://247wallst.com/investing/2026/11/18/apple-is-the-only-magnificent-seven-stock-near-a-record/"
-   ]
   }
  ],
  "mag": [
@@ -1707,6 +1683,16 @@
    "2026-12-09",
    "Decisión de tasas de la Fed",
    "Reunión 8–9 de diciembre. El mercado da un 98 % de probabilidad a una subida de 0,25 %."
+  ],
+  [
+   "2026-12-17",
+   "Decisión de tasas del BCE",
+   "El mercado busca señales de una subida en diciembre: puede mover el EURUSD."
+  ],
+  [
+   "2026-12-18",
+   "Decisión del Banco de Japón",
+   "Se espera una subida al 1,5 % desde el 1,25 %: clave para el USDJPY cerca de 160."
   ],
   [
    "2026-12-23",
