@@ -1,10 +1,10 @@
 {
- "actualizado": "27 nov 2026, 6:46 a. m.",
+ "actualizado": "27 nov 2026, 9:50 a. m.",
  "cinta": [
   [
    "NASDAQ 100",
-   "+2,8 %",
-   "futuros antes de la media sesión del viernes",
+   "+2,35 %",
+   "futuros antes de la media sesión",
    "u"
   ],
   [
@@ -15,36 +15,88 @@
   ],
   [
    "DXY",
-   "103,70",
-   "cede con el mejor ánimo en bolsa",
-   "d"
+   "103,81",
+   "cerca del máximo de 22 meses",
+   "n"
+  ],
+  [
+   "BONO 10A",
+   "4,89 %",
+   "+0,04 puntos al reabrir tras el festivo",
+   "u"
   ],
   [
    "EURUSD",
-   "1,0970",
-   "De Cos será el próximo jefe del BCE",
+   "1,0964",
+   "plano tras la elección de De Cos",
    "n"
   ],
   [
    "USDJPY",
-   "159,00",
-   "IPC de Tokio 2,9 % (esperado 3,0 %)",
+   "159,36",
+   "el yen sigue cerca de 160",
    "n"
   ],
   [
    "ORO",
    "3.650 $",
-   "+2 % tras el mínimo de 15 meses",
+   "+2,4 % tras el mínimo de 15 meses",
    "u"
   ],
   [
-   "PCE",
-   "3,8 %",
-   "inflación anual de octubre",
+   "FED DIC",
+   "99 %",
+   "probabilidad de subida de 0,25 %",
    "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-27",
+   "cat": "M7",
+   "score": 8,
+   "principal": true,
+   "titulo": "Aparecen chips Blackwell de Nvidia en un centro de datos de Shanghái ligado a Alice Huang",
+   "cifra": "72",
+   "cifraTxt": "chips Blackwell Ultra en un solo rack GB300 ofrecido como garantía de un préstamo en Shanghái",
+   "paso": "Según Bloomberg, documentos de préstamos muestran equipos de Nvidia de última generación en un gran proyecto de centros de datos de Shanghái vinculado a Alice Huang y a su empresa Megaspeed. Una firma local ofreció un rack GB300 NVL72, con 72 chips Blackwell Ultra, como garantía de un préstamo de 96 millones de yuanes (unos 14 millones de dólares), y otra describió un servidor GB200 en otro préstamo. Megaspeed fue incluida este mes en la lista negra comercial de EE. UU. y niega haber hecho nada mal; Nvidia no respondió.",
+   "impacto": [
+    [
+     "NVDA",
+     "down",
+     "Si sus chips más avanzados llegan a China pese a la prohibición, crece la presión del Gobierno y del Congreso sobre sus controles de venta."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Es un riesgo para Nvidia, la empresa de más peso del índice, justo en un día de rebote de los chips."
+    ]
+   ],
+   "clave": "El caso de las exportaciones a China sigue creciendo: las declaraciones de Huang ante la Cámara (1 de diciembre) y el Senado (3 de diciembre) son ahora aún más importantes para la acción.",
+   "fuente": [
+    "ThePrint (Bloomberg)",
+    "https://theprint.in/world/nvidia-blackwell-chips-turn-up-at-shanghai-data-centre-linked-to-alice-huang/3111228/"
+   ]
+  },
+  {
+   "dia": "2026-11-26",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "El Pentágono habría estudiado usar una ley de tiempos de guerra para presionar a Nvidia",
+   "paso": "Según The Washington Post, que cita a tres fuentes anónimas, altos cargos del Pentágono, entre ellos Pete Hegseth y su número dos Steve Feinberg, hablaron de usar la Ley de Producción para la Defensa de 1950 para presionar a la junta de Nvidia y que devolviera el cargo de CEO a Jensen Huang. El Pentágono niega que esa propuesta existiera y Nvidia no quiso comentar. Huang dejó el cargo el 12 de noviembre y la junta lo restituyó el 23.",
+   "impacto": [
+    [
+     "NVDA",
+     "neu",
+     "No cambia el negocio, pero refuerza las dudas sobre la independencia de su junta, justo lo que preocupa a S&P en su revisión de la nota de crédito."
+    ]
+   ],
+   "clave": "Es una información negada por el Pentágono: pesa más como ruido de gobierno corporativo que como cambio real para la empresa.",
+   "fuente": [
+    "Pollar (The Washington Post)",
+    "https://pollar.news/en/event/nvidia-pentagons-cold-war-law"
+   ]
+  },
   {
    "dia": "2026-11-27",
    "cat": "M7",
@@ -623,10 +675,7 @@
    "dia": "2026-11-25",
    "cat": "USD",
    "score": 9,
-   "principal": true,
    "titulo": "La inflación PCE sube al 3,8 % y deja casi segura la subida de tasas de la Fed",
-   "cifra": "3,8 %",
-   "cifraTxt": "inflación PCE anual de octubre, la más alta desde 2023 y casi el doble del objetivo del 2 % de la Fed",
    "paso": "El índice PCE, la medida de inflación que más mira la Fed, subió un 0,3 % en octubre y un 3,8 % en el último año (3,6 % en septiembre), como se esperaba. La subyacente, sin comida ni energía, subió al 3,3 %, por encima del 3,2 % previsto, y lleva tres meses seguidos creciendo un 0,3 % al mes. Los ingresos de las familias subieron un 0,7 %, pero el gasto, descontando la inflación, se quedó plano. El mercado da ya un 98 % de probabilidad a una subida de 0,25 % el 9 de diciembre.",
    "impacto": [
     [
