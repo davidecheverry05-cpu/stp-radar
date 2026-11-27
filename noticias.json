@@ -1,47 +1,47 @@
 {
- "actualizado": "27 nov 2026, 12:45 p. m.",
+ "actualizado": "27 nov 2026, 3:45 p. m.",
  "cinta": [
   [
-   "NASDAQ 100",
-   "+2 %",
-   "rebote en la media sesión",
+   "NASDAQ",
+   "+2,31 %",
+   "cierre en 24.129,50 tras la media sesión",
+   "u"
+  ],
+  [
+   "S&P 500",
+   "+1,6 %",
+   "cierre en 7.297,49",
+   "u"
+  ],
+  [
+   "DOW",
+   "50.774,94",
+   "+1,18 %; mejor semana desde 2022",
    "u"
   ],
   [
    "NVDA",
-   "−2 %",
-   "borra la subida de antes de abrir",
-   "d"
+   "+0,8 %",
+   "cierra en verde, por encima del miércoles",
+   "u"
   ],
   [
    "DXY",
    "103,76",
-   "plano; máximo de 22 meses en 104,53",
+   "soporte en 103,60; máximo semanal 104,53",
    "n"
   ],
   [
    "BONO 10A",
-   "4,84 %",
-   "sigue bajando tras el PIB",
-   "d"
+   "4,89 %",
+   "sube 0,03 puntos",
+   "u"
   ],
   [
    "ORO",
-   "3.643 $",
-   "+1,5 % en la sesión",
+   "3.672 $",
+   "casi +3 %; mínimo de 3.427 $ el miércoles",
    "u"
-  ],
-  [
-   "PLATA",
-   "43,75 $",
-   "+5,7 % en la sesión",
-   "u"
-  ],
-  [
-   "DÉFICIT COMERCIAL",
-   "149.500 M$",
-   "octubre; se esperaban 133.000 M$",
-   "d"
   ],
   [
    "FED DIC",
@@ -56,9 +56,57 @@
    "cat": "M7",
    "score": 8,
    "principal": true,
+   "titulo": "Wall Street cierra la media sesión en verde: el Nasdaq sube un 2,3 % y el Dow logra su mejor semana desde 2022",
+   "cifra": "+2,31 %",
+   "cifraTxt": "subida del Nasdaq el viernes; el Nasdaq 100 recupera casi toda la caída del martes y el miércoles",
+   "paso": "En la sesión corta del viernes, que terminó a la 1:00 p. m. de Nueva York, el Nasdaq subió un 2,31 %, hasta 24.129,50 puntos; el S&P 500 un 1,6 %, hasta 7.297,49, y el Dow Jones un 1,18 %, hasta 50.774,94, con lo que cierra su mejor semana desde 2022. El fondo del Nasdaq 100 (QQQ) ganó un 2,69 % y recuperó casi toda la caída del martes y el miércoles. Nvidia, que llegó a caer por la mañana, cerró con +0,80 %, y Anthropic subió un 10,98 %, hasta 91,88 $.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "El rebote aguantó hasta el cierre: los compradores aprovecharon las caídas de la semana, aunque con poco volumen por el festivo."
+    ],
+    [
+     "NVDA",
+     "up",
+     "Cerró en verde, pero subió mucho menos que el sector: las dudas sobre su junta y sobre China siguen frenándola."
+    ],
+    [
+     "AMZN · GOOGL",
+     "up",
+     "Son grandes accionistas de Anthropic: si su acción sube, esas participaciones valen más."
+    ]
+   ],
+   "clave": "Buena semana para la bolsa, pero con volumen de festivo: la sesión completa del lunes y el empleo del 4 de diciembre dirán si el rebote aguanta.",
+   "fuente": [
+    "CNBC",
+    "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+   ]
+  },
+  {
+   "dia": "2026-11-26",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Trump insiste en que Jensen Huang no es un riesgo y no descarta que EE. UU. compre parte de Nvidia",
+   "paso": "En Mar-a-Lago, Trump dijo que tiene «mucha información» de que Jensen Huang no es una amenaza para la seguridad, aunque el Departamento de Justicia no confirma haber hecho una investigación completa. Contó que su Gobierno presionó en privado para que la junta lo restituyera y que Huang llama a su regreso su «segundo mandato». En una entrevista con el New York Post, también dijo que pensó en que el Estado tome una participación en Nvidia, como hizo con cerca del 10 % de Intel, y que «probablemente no es tarde».",
+   "impacto": [
+    [
+     "NVDA",
+     "neu",
+     "El apoyo de la Casa Blanca protege a Huang, pero la idea de que el Estado entre en su capital y las críticas del Congreso suman incertidumbre política a la acción."
+    ]
+   ],
+   "clave": "Nvidia depende cada vez más de la política: la participación estatal no es un plan oficial, pero vigílala junto a las citas de Huang con el Congreso del 1 y el 3 de diciembre.",
+   "fuente": [
+    "Decrypt",
+    "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "M7",
+   "score": 8,
    "titulo": "Aparecen chips Blackwell de Nvidia en un centro de datos de Shanghái ligado a Alice Huang",
-   "cifra": "72",
-   "cifraTxt": "chips Blackwell Ultra en un solo rack GB300 ofrecido como garantía de un préstamo en Shanghái",
    "paso": "Según Bloomberg, documentos de préstamos muestran equipos de Nvidia de última generación en un gran proyecto de centros de datos de Shanghái vinculado a Alice Huang y a su empresa Megaspeed. Una firma local ofreció un rack GB300 NVL72, con 72 chips Blackwell Ultra, como garantía de un préstamo de 96 millones de yuanes (unos 14 millones de dólares), y otra describió un servidor GB200 en otro préstamo. Megaspeed fue incluida este mes en la lista negra comercial de EE. UU. y niega haber hecho nada mal; Nvidia no respondió.",
    "impacto": [
     [
@@ -1889,7 +1937,7 @@
   [
    "2026-12-04",
    "Informe de empleo de noviembre",
-   "Dato clave antes de la Fed: un empleo flojo bajaría las rentabilidades y ayudaría al oro."
+   "Se esperan unos 90.000 empleos. Un dato fuerte apoyaría otra subida de la Fed en enero; uno flojo ayudaría al oro."
   ],
   [
    "2026-12-09",
