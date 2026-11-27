@@ -1,47 +1,47 @@
 {
- "actualizado": "27 nov 2026, 9:50 a. m.",
+ "actualizado": "27 nov 2026, 12:45 p. m.",
  "cinta": [
   [
    "NASDAQ 100",
-   "+2,35 %",
-   "futuros antes de la media sesión",
+   "+2 %",
+   "rebote en la media sesión",
    "u"
   ],
   [
    "NVDA",
-   "+4 %",
-   "rebote antes de la apertura",
-   "u"
+   "−2 %",
+   "borra la subida de antes de abrir",
+   "d"
   ],
   [
    "DXY",
-   "103,81",
-   "cerca del máximo de 22 meses",
+   "103,76",
+   "plano; máximo de 22 meses en 104,53",
    "n"
   ],
   [
    "BONO 10A",
-   "4,89 %",
-   "+0,04 puntos al reabrir tras el festivo",
-   "u"
-  ],
-  [
-   "EURUSD",
-   "1,0964",
-   "plano tras la elección de De Cos",
-   "n"
-  ],
-  [
-   "USDJPY",
-   "159,36",
-   "el yen sigue cerca de 160",
-   "n"
+   "4,84 %",
+   "sigue bajando tras el PIB",
+   "d"
   ],
   [
    "ORO",
-   "3.650 $",
-   "+2,4 % tras el mínimo de 15 meses",
+   "3.643 $",
+   "+1,5 % en la sesión",
    "u"
+  ],
+  [
+   "PLATA",
+   "43,75 $",
+   "+5,7 % en la sesión",
+   "u"
+  ],
+  [
+   "DÉFICIT COMERCIAL",
+   "149.500 M$",
+   "octubre; se esperaban 133.000 M$",
+   "d"
   ],
   [
    "FED DIC",
@@ -76,6 +76,83 @@
    "fuente": [
     "ThePrint (Bloomberg)",
     "https://theprint.in/world/nvidia-blackwell-chips-turn-up-at-shanghai-data-centre-linked-to-alice-huang/3111228/"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "M7",
+   "score": 7,
+   "titulo": "Nvidia se da la vuelta y cae un 2 % mientras el Nasdaq 100 sube cerca de un 2 %",
+   "paso": "En la media sesión del viernes, el Nasdaq 100 se acercaba a una subida del 2 %, el S&P 500 ganaba cerca de un 1,2 % y el Dow Jones casi un 1 %. Nvidia, en cambio, perdió el avance de casi un 4 % que tenía antes de abrir y a media mañana caía alrededor de un 2 %; sigue cerca de un 40 % por debajo de su récord de octubre. Entre las 7 Magníficas, Amazon subía más de un 3 %, Tesla cerca de un 3 % y Meta más de un 2 %, mientras Apple y Microsoft subían menos.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "Los compradores vuelven a las tecnológicas tras la caída de la semana, aunque con poco volumen por la media sesión."
+    ],
+    [
+     "NVDA",
+     "down",
+     "Las dudas sobre su junta y sobre sus ventas a China pesan más que el rebote del sector: el mercado aún no quiere comprarla."
+    ],
+    [
+     "AMZN · TSLA · META",
+     "up",
+     "Lideran el rebote dentro de las 7 Magníficas: el dinero vuelve primero a las que más cayeron en noviembre."
+    ]
+   ],
+   "clave": "El sector rebota pero Nvidia se queda atrás: mientras no aclare sus problemas, puede seguir rezagada aunque el Nasdaq suba.",
+   "fuente": [
+    "Crypto Briefing",
+    "https://cryptobriefing.com/nasdaq-100-gains-2-percent-session-high/"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El déficit comercial de EE. UU. sube a 149.500 millones de dólares por las compras para la IA",
+   "paso": "El déficit en el comercio de bienes de EE. UU. creció un 10,7 % en octubre, hasta 149.500 millones de dólares, cuando los economistas esperaban 133.000 millones. Las importaciones subieron 21.100 millones, hasta 365.300 millones, empujadas por los equipos para centros de datos de IA; las exportaciones crecieron menos, hasta 215.800 millones. En el tercer trimestre, el comercio ya le restó 3,21 puntos al crecimiento del PIB.",
+   "impacto": [
+    [
+     "DXY",
+     "neu",
+     "Un déficit mayor resta crecimiento al final del año, pero no cambia la subida de tasas de la Fed de diciembre, que es lo que sostiene al dólar."
+    ],
+    [
+     "NVDA · MSFT",
+     "neu",
+     "Las compras récord de equipos muestran que la construcción de centros de datos de IA no se frena."
+    ]
+   ],
+   "clave": "La IA sigue tirando de las compras al exterior: el comercio restará crecimiento a EE. UU., pero la Fed mira más la inflación que este dato.",
+   "fuente": [
+    "Yahoo Finance (Reuters)",
+    "https://finance.yahoo.com/economy/articles/us-goods-trade-deficit-widens-134408602.html"
+   ]
+  },
+  {
+   "dia": "2026-11-26",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "Apple ya envía el 57 % de los móviles de EE. UU. mientras el mercado cae un 9 %",
+   "paso": "Según Counterpoint Research, los envíos de teléfonos en EE. UU. bajaron un 9 % en el tercer trimestre de 2026 frente a hace un año, porque la memoria más cara golpeó a los Android baratos. Apple fue la única gran marca que no redujo sus envíos y su cuota subió del 50 % al 57 %. Samsung quedó en el 25 %, Motorola cayó al 8 % y Google bajó al 6 % pese al lanzamiento del Pixel 11.",
+   "impacto": [
+    [
+     "AAPL",
+     "up",
+     "Gana cuota mientras sus rivales sufren: muestra que puede cobrar más sin perder clientes."
+    ],
+    [
+     "GOOGL",
+     "neu",
+     "Sus Pixel pierden algo de terreno, pero los móviles son una parte pequeña de su negocio."
+    ]
+   ],
+   "clave": "La crisis de la memoria castiga a los móviles baratos y refuerza a Apple, aunque Counterpoint espera un cuarto trimestre flojo para todo el sector.",
+   "fuente": [
+    "Counterpoint Research",
+    "https://counterpointresearch.com/en/insights/us-smartphone-shipments-fell-9-percent-yoy-as-memory-costs-squeeze-android"
    ]
   },
   {
@@ -1780,11 +1857,6 @@
  ],
  "agenda": [
   [
-   "2026-11-27",
-   "Media sesión en Wall Street",
-   "Tras Acción de Gracias la bolsa cierra antes y con poco volumen: los movimientos pueden exagerarse."
-  ],
-  [
    "2026-11-29",
    "Reunión de la OPEP+",
    "Decide la producción de petróleo para 2027: puede mover el crudo y la inflación."
@@ -1813,6 +1885,11 @@
    "2026-12-03",
    "Jensen Huang declara ante el Senado",
    "Comité Bancario: control de exportaciones de chips a China. Puede mover a NVDA."
+  ],
+  [
+   "2026-12-04",
+   "Informe de empleo de noviembre",
+   "Dato clave antes de la Fed: un empleo flojo bajaría las rentabilidades y ayudaría al oro."
   ],
   [
    "2026-12-09",
