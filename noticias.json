@@ -1,47 +1,41 @@
 {
- "actualizado": "26 nov 2026, 6:50 p. m.",
+ "actualizado": "27 nov 2026, 6:46 a. m.",
  "cinta": [
   [
-   "NASDAQ",
-   "−0,62 %",
-   "cierre del miércoles en 23.585,80",
-   "d"
-  ],
-  [
-   "META",
-   "609,89 $",
-   "+3,40 % por la charla con Amazon",
+   "NASDAQ 100",
+   "+2,8 %",
+   "futuros antes de la media sesión del viernes",
    "u"
   ],
   [
    "NVDA",
-   "149,30 $",
-   "frena envíos a 4 países de Asia",
-   "d"
+   "+4 %",
+   "rebote antes de la apertura",
+   "u"
   ],
   [
    "DXY",
-   "103,78",
-   "+0,07 % en un festivo tranquilo",
-   "n"
+   "103,70",
+   "cede con el mejor ánimo en bolsa",
+   "d"
   ],
   [
    "EURUSD",
-   "1,0971",
-   "−0,05 % tras tres días de rebote",
+   "1,0970",
+   "De Cos será el próximo jefe del BCE",
    "n"
   ],
   [
    "USDJPY",
-   "159,28",
+   "159,00",
    "IPC de Tokio 2,9 % (esperado 3,0 %)",
    "n"
   ],
   [
    "ORO",
-   "3.571 $",
-   "recupera 145 $ desde el mínimo de 3.426 $",
-   "n"
+   "3.650 $",
+   "+2 % tras el mínimo de 15 meses",
+   "u"
   ],
   [
    "PCE",
@@ -51,6 +45,88 @@
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-27",
+   "cat": "M7",
+   "score": 8,
+   "titulo": "Las tecnológicas rebotan antes de abrir: los futuros del Nasdaq 100 suben hasta un 2,9 % y Nvidia un 4 %",
+   "paso": "Tras el festivo de Acción de Gracias, los inversores vuelven a comprar las acciones de IA que vendieron con fuerza a principio de semana. Antes de la apertura del viernes, los futuros del Nasdaq 100 subían entre un 2,3 % y un 2,9 %, Nvidia entre un 4 % y un 4,7 %, y Alphabet, Amazon, Microsoft y Meta entre un 2,3 % y un 5,3 %. Aun así, el Nasdaq 100 pierde cerca de un 8 % en noviembre y va camino de su peor mes desde diciembre de 2022. Hoy la bolsa cierra antes de lo normal.",
+   "impacto": [
+    [
+     "NASDAQ",
+     "up",
+     "Tras rozar el mercado bajista el miércoles, aparecen compradores que ven las caídas como oportunidad."
+    ],
+    [
+     "NVDA",
+     "up",
+     "Rebota, pero sigue más de un 37 % por debajo de su récord de octubre: las dudas sobre la empresa no se han ido."
+    ],
+    [
+     "MSFT · AMZN · GOOGL · META",
+     "up",
+     "Las grandes que más gastan en IA suben con los chips cuando vuelve la confianza en el sector."
+    ]
+   ],
+   "clave": "Es un rebote con poco volumen y media sesión: las dudas sobre si la IA dará beneficios siguen abiertas, así que espera a ver si aguanta la próxima semana.",
+   "fuente": [
+    "Le Private Banker",
+    "https://leprivatebanker.com/2026/11/27/nasdaq-futures-jump-over-2-as-battered-ai-stocks-rebound-but-nasdaq-100-is-still-heading-for-its-worst-month-since-2022/"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 7,
+   "titulo": "El oro sube más de un 2 % y supera los 3.650 $ mientras el dólar cede",
+   "paso": "Con mejor ánimo en las bolsas tras Acción de Gracias, el oro subía el viernes más de un 2 % y superaba los 3.650 $ la onza, lejos del mínimo de 15 meses (cerca de 3.427 $) que tocó el miércoles. El índice del dólar (DXY) bajaba por debajo de 103,70, el EURUSD se movía cerca de 1,0970 y el USDJPY algo por encima de 159,00. Aun así, el dólar va camino de su tercer mes seguido de subidas.",
+   "impacto": [
+    [
+     "XAUUSD",
+     "up",
+     "Un dólar algo más débil y menos ventas forzadas para cubrir pérdidas en bolsa le dan aire al oro."
+    ],
+    [
+     "DXY",
+     "down",
+     "Cuando el miedo baja, menos dinero busca refugio en el dólar y el índice retrocede."
+    ],
+    [
+     "USDJPY",
+     "neu",
+     "La subida del Banco de Japón de diciembre sigue en juego: el par se mantiene en la zona de 159–160."
+    ]
+   ],
+   "clave": "El oro rebota, pero con la Fed camino de subir tasas la tendencia de fondo sigue débil: vigila si se mantiene por encima de 3.600 $.",
+   "fuente": [
+    "FXStreet",
+    "https://www.fxstreet.com/news/forex-today-us-dollar-struggles-to-find-demand-after-thanksgiving-gold-extends-rebound-202611270737"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El español Pablo Hernández de Cos será el próximo presidente del BCE",
+   "paso": "El Consejo Europeo eligió al exgobernador del Banco de España, Pablo Hernández de Cos, como próximo presidente del Banco Central Europeo. Una vez confirmado, sustituirá a Christine Lagarde cuando deje el cargo el 7 de febrero de 2027. También fueron propuestos Markus Brunnermeier como economista jefe y Laurence Boone para el área de mercados. El EURUSD apenas reaccionó y se movía cerca de 1,0970.",
+   "impacto": [
+    [
+     "EURUSD",
+     "neu",
+     "En diciembre aún decide el BCE de Lagarde; en 2027, si el nuevo presidente es menos partidario de subir tasas, el euro tendría menos apoyo."
+    ],
+    [
+     "DXY",
+     "neu",
+     "El euro es la moneda con más peso en el índice del dólar: un BCE más suave a futuro favorecería al dólar."
+    ]
+   ],
+   "clave": "No cambia nada para la reunión del 17 de diciembre, pero sí puede cambiar el rumbo del euro a partir de 2027.",
+   "fuente": [
+    "FXStreet",
+    "https://www.fxstreet.com/news/forex-today-us-dollar-struggles-to-find-demand-after-thanksgiving-gold-extends-rebound-202611270737"
+   ]
+  },
   {
    "dia": "2026-11-26",
    "cat": "USD",
@@ -1489,30 +1565,6 @@
    ]
   },
   {
-   "dia": "2026-11-19",
-   "cat": "M7",
-   "score": 7,
-   "titulo": "California también investiga a Nvidia por sus riesgos en China",
-   "paso": "El fiscal general de California, Rob Bonta, envió a Nvidia una citación para que entregue información: quiere saber si la empresa engañó a los inversores sobre sus riesgos en China. Se suma a la investigación de la SEC. Además, el secretario del Tesoro, Scott Bessent, pidió respuestas a la junta directiva de Nvidia en un plazo de 10 días sobre posibles ventas de chips avanzados a China.",
-   "impacto": [
-    [
-     "NVDA",
-     "down",
-     "Cada nueva investigación suma incertidumbre: el mercado exige más descuento para tener una acción con problemas legales abiertos."
-    ],
-    [
-     "NASDAQ",
-     "down",
-     "Nvidia pesa mucho en el índice: más malas noticias legales pueden alargar la presión sobre la tecnología."
-    ]
-   ],
-   "clave": "Una citación es un primer paso, no una acusación, pero los frentes legales de Nvidia se multiplican: atento al plazo de Bessent a finales de noviembre.",
-   "fuente": [
-    "The Daily Guardian (Reuters)",
-    "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/"
-   ]
-  },
-  {
    "dia": "2026-11-20",
    "cat": "M7",
    "score": 10,
@@ -1631,102 +1683,6 @@
    "fuente": [
     "CappNotes",
     "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
-   ]
-  },
-  {
-   "dia": "2026-11-19",
-   "cat": "M7",
-   "score": 8,
-   "titulo": "Anthropic sale a bolsa por encima de lo previsto y Amazon y Google ganan en grande",
-   "paso": "Anthropic, la empresa de inteligencia artificial creadora de Claude, salió a bolsa a 83 $ por acción, por encima del rango de 70–78 $, y recaudó 81.300 millones. Hubo pedidos por casi 500.000 millones. Amazon se queda con el 14,7 % de la empresa y Google con el 13,7 %: cada participación vale más de 100.000 millones.",
-   "impacto": [
-    [
-     "AMZN",
-     "up",
-     "Su apuesta en Anthropic ahora tiene un precio de mercado claro y enorme. Además, Anthropic es gran cliente de su nube (AWS)."
-    ],
-    [
-     "GOOGL",
-     "up",
-     "Mismo caso: una participación de más de 100.000 M$ que ahora se puede valorar todos los días en bolsa."
-    ],
-    [
-     "SECTOR IA",
-     "neu",
-     "Tanta demanda demuestra que el apetito por la IA sigue vivo, aunque las acciones del sector vengan castigadas."
-    ]
-   ],
-   "clave": "Amazon y Google tienen ahora un activo de IA que cotiza en bolsa. Lo que haga Anthropic en bolsa también moverá a estas dos.",
-   "fuente": [
-    "24/7 Wall St.",
-    "https://247wallst.com/investing/2026/11/19/anthropics-ipo-drew-nearly-500-billion-in-orders-for-81-billion-of-stock/"
-   ]
-  },
-  {
-   "dia": "2026-11-19",
-   "cat": "USD",
-   "score": 8,
-   "titulo": "El dólar toca su nivel más alto en 19 meses y frena",
-   "paso": "El índice del dólar (DXY) llegó a 103,97, su máximo desde abril de 2025. Después bajó un poco porque un dato de la industria de EE. UU. (Fed de Filadelfia) salió muy flojo: 6,3 cuando se esperaba 20.",
-   "impacto": [
-    [
-     "DXY",
-     "neu",
-     "Sigue en tendencia alcista, pero está en una zona alta: un dato débil basta para frenarlo."
-    ],
-    [
-     "EURUSD",
-     "neu",
-     "Gran parte de la subida del dólar es el euro cayendo. Si el euro deja de caer, el dólar pierde impulso."
-    ]
-   ],
-   "clave": "El dólar está fuerte, pero estirado. Si siguen saliendo datos débiles en EE. UU., puede corregir.",
-   "fuente": [
-    "FXStreet",
-    "https://www.fxstreet.com/news/us-dollar-takes-a-breather-after-rally-to-19-month-high-202611191423"
-   ]
-  },
-  {
-   "dia": "2026-11-19",
-   "cat": "USD",
-   "score": 7,
-   "titulo": "Más gente sigue cobrando el paro en EE. UU.: primera grieta en el empleo",
-   "paso": "Las nuevas peticiones de subsidio por desempleo subieron a 203.000 (se esperaban 197.000). Lo más llamativo: las personas que siguen cobrando el paro subieron en 70.000, hasta 1,76 millones, el mayor salto desde enero de 2024.",
-   "impacto": [
-    [
-     "DXY",
-     "down",
-     "Si el empleo se enfría, la Fed tiene menos motivos para subir tasas muchas veces. Eso le quita fuerza al dólar."
-    ],
-    [
-     "ORO",
-     "up",
-     "Cualquier señal de que la Fed podría frenar le da un respiro al oro."
-    ]
-   ],
-   "clave": "Los despidos siguen bajos, pero a quien pierde el empleo le cuesta más encontrar otro. Si se repite, cambia el discurso de la Fed.",
-   "fuente": [
-    "Investing Live",
-    "https://investinglive.com/news/us-initial-jobless-claims-203k-vs-197k-estimate/"
-   ]
-  },
-  {
-   "dia": "2026-11-19",
-   "cat": "M7",
-   "score": 6,
-   "titulo": "Microsoft rebota un 3 % tras tocar mínimos de 7 semanas",
-   "paso": "Microsoft subió un 3,1 % el jueves después de caer a 496,51 $ el martes, su precio más bajo desde finales de septiembre. La caída venía de dudas sobre cuánto está gastando en IA. El día antes había anunciado una alianza con Nvidia y Anthropic.",
-   "impacto": [
-    [
-     "MSFT",
-     "up",
-     "Rebote técnico desde mínimos. Sigue lejos de su máximo de 559 $ del 4 de noviembre."
-    ]
-   ],
-   "clave": "El mercado castiga el gasto en IA, pero compra cuando la acción se abarata. Zona de 500 $ como soporte a vigilar.",
-   "fuente": [
-    "Blockonomi",
-    "https://blockonomi.com/?p=219958"
    ]
   }
  ],
