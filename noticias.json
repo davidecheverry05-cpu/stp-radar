@@ -1,5 +1,5 @@
 {
- "actualizado": "27 nov 2026, 3:45 p. m.",
+ "actualizado": "27 nov 2026, 6:50 p. m.",
  "cinta": [
   [
    "NASDAQ",
@@ -14,15 +14,15 @@
    "u"
   ],
   [
-   "DOW",
-   "50.774,94",
-   "+1,18 %; mejor semana desde 2022",
-   "u"
-  ],
-  [
    "NVDA",
    "+0,8 %",
    "cierra en verde, por encima del miércoles",
+   "u"
+  ],
+  [
+   "BRENT",
+   "97,30 $",
+   "+0,8 %; primera semana en alza de noviembre",
    "u"
   ],
   [
@@ -33,8 +33,8 @@
   ],
   [
    "BONO 10A",
-   "4,89 %",
-   "sube 0,03 puntos",
+   "4,93 %",
+   "sube 0,08 puntos; el de 2 años, 4,70 %",
    "u"
   ],
   [
@@ -81,6 +81,54 @@
    "fuente": [
     "CNBC",
     "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "Los bonos de EE. UU. vuelven a pagar más y el petróleo apunta a su primera semana al alza en noviembre",
+   "paso": "El viernes, la rentabilidad del bono a 10 años de EE. UU. subió más de 0,08 puntos, hasta el 4,93 %, y la del bono a 2 años, que sigue de cerca a la Fed, más de 0,06 puntos, hasta el 4,70 %. Pesaron el petróleo más caro y la espera del dato de empleo. El Brent subía un 0,8 %, hasta 97,30 $ el barril, y el WTI un 2,6 %, hasta 85,85 $, tras nuevos ataques a petroleros en el estrecho de Ormuz y a refinerías saudíes: la de Jazan paró parte de su actividad tras ser alcanzada el jueves.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Si los bonos de EE. UU. pagan más, tener dólares rinde más y el dólar tiene apoyo."
+    ],
+    [
+     "XAUUSD",
+     "down",
+     "El oro no paga intereses: cuando los bonos suben su rentabilidad, el oro pierde atractivo y le cuesta más seguir rebotando."
+    ],
+    [
+     "NASDAQ",
+     "neu",
+     "Tasas y petróleo más altos encarecen el dinero y los costes, un freno para las tecnológicas aunque hoy subieron."
+    ]
+   ],
+   "clave": "Petróleo cerca de 100 $ significa más presión sobre la inflación: eso deja a la Fed con motivos para seguir subiendo tasas después de diciembre.",
+   "fuente": [
+    "CNBC",
+    "https://www.cnbc.com/2026/11/27/treasury-yields-bonds-fed.html"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "M7",
+   "score": 6,
+   "titulo": "OpenAI contraataca y demanda a Apple por robo de secretos comerciales",
+   "paso": "OpenAI presentó el viernes una demanda en un tribunal de California contra Apple: la acusa de robar secretos comerciales y de presionar y amenazar a los proveedores que trabajan en sus futuros dispositivos. Es la respuesta a la demanda que Apple puso en julio, en la que acusa a OpenAI y a dos exempleados de llevarse información de ingeniería. El juicio del caso de Apple está fijado para el 19 de julio de 2027.",
+   "impacto": [
+    [
+     "AAPL",
+     "neu",
+     "No cambia las cuentas de Apple hoy, pero abre un frente legal más largo con su gran rival en dispositivos con IA."
+    ]
+   ],
+   "clave": "Es una pelea legal de largo plazo: pesa más como ruido que como riesgo inmediato para la acción de Apple.",
+   "fuente": [
+    "9to5Mac (Financial Times)",
+    "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
    ]
   },
   {
@@ -1975,5 +2023,35 @@
    "Los nuevos aranceles de hasta el 20 % no entrarían en vigor antes de enero."
   ]
  ],
- "cola": []
+ "cola": [
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El dólar se da la vuelta y cierra la semana por encima de 104",
+   "paso": "Tras ceder por la mañana, el índice del dólar (DXY) terminó el viernes con una subida del 0,36 %, en 104,04, y cerró la semana en positivo. El EURUSD bajó un 0,36 %, hasta 1,0939, y el USDJPY subió un 0,26 %, hasta 159,55. Lo empujaron los bonos: la rentabilidad del bono a 10 años subió 0,09 puntos, hasta el 4,94 %, porque con la bolsa al alza menos inversores buscaron refugio en ellos. Desde el sábado, los miembros de la Fed entran en su periodo de silencio antes de la reunión del 8 y 9 de diciembre.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Si los bonos de EE. UU. pagan más, tener dólares rinde más y el dólar recupera fuerza."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "Con el dólar más firme, el euro vuelve a alejarse de 1,10 y se acerca a la zona de 1,09."
+    ],
+    [
+     "USDJPY",
+     "up",
+     "El par vuelve a acercarse a 160, la zona donde Japón podría intervenir para defender el yen."
+    ]
+   ],
+   "clave": "El dólar sigue firme cerca de sus máximos del año: sin discursos de la Fed hasta su reunión, el dato de empleo del 4 de diciembre será lo que más lo mueva.",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+   ]
+  }
+ ]
 }
