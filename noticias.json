@@ -1,5 +1,5 @@
 {
- "actualizado": "27 nov 2026, 6:50 p. m.",
+ "actualizado": "28 nov 2026, 6:45 a. m.",
  "cinta": [
   [
    "NASDAQ",
@@ -14,27 +14,27 @@
    "u"
   ],
   [
-   "NVDA",
-   "+0,8 %",
-   "cierra en verde, por encima del miércoles",
-   "u"
-  ],
-  [
-   "BRENT",
-   "97,30 $",
-   "+0,8 %; primera semana en alza de noviembre",
-   "u"
-  ],
-  [
    "DXY",
-   "103,76",
-   "soporte en 103,60; máximo semanal 104,53",
-   "n"
+   "104,04",
+   "+0,36 % el viernes; cierra la semana en positivo",
+   "u"
+  ],
+  [
+   "EURUSD",
+   "1,0939",
+   "−0,36 % el viernes",
+   "d"
+  ],
+  [
+   "USDJPY",
+   "159,55",
+   "+0,26 %; cerca de la zona de 160",
+   "u"
   ],
   [
    "BONO 10A",
-   "4,93 %",
-   "sube 0,08 puntos; el de 2 años, 4,70 %",
+   "4,94 %",
+   "sube 0,09 puntos el viernes",
    "u"
   ],
   [
@@ -44,13 +44,66 @@
    "u"
   ],
   [
-   "FED DIC",
-   "99 %",
-   "probabilidad de subida de 0,25 %",
+   "BLACK FRIDAY",
+   "9.700 M$",
+   "gasto online hasta las 6:30 p. m., +12,8 % (Adobe)",
    "u"
   ]
  ],
  "noticias": [
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El dólar se da la vuelta y cierra la semana por encima de 104",
+   "paso": "Tras ceder por la mañana, el índice del dólar (DXY) terminó el viernes con una subida del 0,36 %, en 104,04, y cerró la semana en positivo. El EURUSD bajó un 0,36 %, hasta 1,0939, y el USDJPY subió un 0,26 %, hasta 159,55. Lo empujaron los bonos: la rentabilidad del bono a 10 años subió 0,09 puntos, hasta el 4,94 %, porque con la bolsa al alza menos inversores buscaron refugio en ellos. Desde el sábado, los miembros de la Fed entran en su periodo de silencio antes de la reunión del 8 y 9 de diciembre.",
+   "impacto": [
+    [
+     "DXY",
+     "up",
+     "Si los bonos de EE. UU. pagan más, tener dólares rinde más y el dólar recupera fuerza."
+    ],
+    [
+     "EURUSD",
+     "down",
+     "Con el dólar más firme, el euro vuelve a alejarse de 1,10 y se acerca a la zona de 1,09."
+    ],
+    [
+     "USDJPY",
+     "up",
+     "El par vuelve a acercarse a 160, la zona donde Japón podría intervenir para defender el yen."
+    ]
+   ],
+   "clave": "El dólar sigue firme cerca de sus máximos del año: sin discursos de la Fed hasta su reunión, el dato de empleo del 4 de diciembre será lo que más lo mueva.",
+   "fuente": [
+    "CappNotes",
+    "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
+   ]
+  },
+  {
+   "dia": "2026-11-27",
+   "cat": "USD",
+   "score": 6,
+   "titulo": "El gasto online del Black Friday en EE. UU. sube un 12,8 % pese a la inflación",
+   "paso": "Según Adobe Analytics, los estadounidenses gastaron 9.700 millones de dólares en compras online el Black Friday hasta las 6:30 p. m. de Nueva York, un 12,8 % más que hace un año, y el total del día quedaría entre 13.000 y 13.400 millones. Adobe espera que, de Acción de Gracias a Cyber Monday, el gasto online suba un 7,4 %, hasta 47.500 millones, con el Cyber Monday como el día más fuerte (15.100 millones, +6,2 %). Salesforce, que mide de otra forma, prevé 18.700 millones para el Black Friday en EE. UU. (+4 %).",
+   "impacto": [
+    [
+     "AMZN",
+     "up",
+     "Más compras online significan más ventas en su tienda y más ingresos por publicidad en la temporada más fuerte del año."
+    ],
+    [
+     "DXY",
+     "neu",
+     "Un consumidor que sigue gastando pese a la inflación y la gasolina cara le da a la Fed margen para seguir subiendo tasas."
+    ]
+   ],
+   "clave": "El consumidor de EE. UU. aguanta: buena noticia para Amazon, pero también un motivo más para que la Fed no frene sus subidas.",
+   "fuente": [
+    "The Star (Reuters)",
+    "https://www.thestar.com.my/tech/tech-news/2026/11/28/us-black-friday-online-sales-to-cross-13-billion-adobe-says"
+   ]
+  },
   {
    "dia": "2026-11-27",
    "cat": "M7",
@@ -1756,156 +1809,6 @@
     "Yahoo Finance (Reuters)",
     "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"
    ]
-  },
-  {
-   "dia": "2026-11-20",
-   "cat": "M7",
-   "score": 6,
-   "titulo": "Anthropic cae un 9 % en su segundo día en bolsa y roza su precio de salida",
-   "paso": "Después de cerrar el jueves en 97,17 $, la acción de Anthropic llegó a bajar el viernes hasta 83,05 $, a solo 5 centavos de su precio de salida a bolsa (83 $). Luego rebotó y cerró en 88,30 $, un 9 % menos que el día anterior, en plena venta general de acciones ligadas a la inteligencia artificial.",
-   "impacto": [
-    [
-     "AMZN",
-     "down",
-     "Amazon tiene cerca del 14,7 % de Anthropic: si la acción baja, el valor de esa participación también baja."
-    ],
-    [
-     "GOOGL",
-     "down",
-     "Google tiene alrededor del 13,7 % de Anthropic: le pasa lo mismo que a Amazon."
-    ],
-    [
-     "SECTOR IA",
-     "neu",
-     "Aguantó por encima de su precio de salida, señal de que hay compradores, pero el ánimo con la IA sigue frágil."
-    ]
-   ],
-   "clave": "Anthropic ya funciona como termómetro de la IA: lo que haga su acción también pesará sobre Amazon y Google.",
-   "fuente": [
-    "24/7 Wall St.",
-    "https://247wallst.com/investing/2026/11/20/anthropic-stock-came-within-5-cents-of-its-83-ipo-price-on-day-2-then-bounced-6-to-close-at-88-30-facebook-closed-its-day-2-10-below-its-ipo-price/"
-   ]
-  },
-  {
-   "dia": "2026-11-20",
-   "cat": "M7",
-   "score": 10,
-   "titulo": "Nvidia se desploma un 14 % por una investigación de la SEC a sus cuentas",
-   "paso": "Según Reuters, el regulador de la bolsa de EE. UU. (la SEC) está revisando posibles problemas contables en Nvidia. No se sabe desde cuándo ni qué temas exactos revisa, y una investigación no significa que haya delito. Aun así, la acción cayó un 14 % y perdió unos 431.000 millones de dólares de valor en el día; ya está un 46 % por debajo de su récord del 6 de octubre.",
-   "impacto": [
-    [
-     "NVDA",
-     "down",
-     "Cuando hay dudas sobre las cuentas, el mercado deja de confiar en los números, aunque los resultados recientes hayan sido muy buenos."
-    ],
-    [
-     "NASDAQ",
-     "down",
-     "Nvidia es la empresa con más peso del índice: su caída arrastró al Nasdaq y a todo el sector de chips (el índice de semiconductores bajó un 10,7 %)."
-    ],
-    [
-     "SECTOR IA",
-     "down",
-     "Era el gran símbolo de la IA. Si su contabilidad está en duda, los inversores venden todo lo relacionado con IA por si acaso."
-    ]
-   ],
-   "clave": "Hasta que se aclare qué revisa la SEC, Nvidia cotizará con miedo: espera movimientos bruscos en ambas direcciones con cada titular.",
-   "fuente": [
-    "24/7 Wall St.",
-    "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/"
-   ]
-  },
-  {
-   "dia": "2026-11-20",
-   "cat": "M7",
-   "score": 9,
-   "titulo": "Viernes negro en Wall Street: el Nasdaq cae un 5,3 % y el S&P 500 entra en corrección",
-   "paso": "El Nasdaq bajó un 5,28 % y borró lo que había ganado en el año; en la semana cae más de un 10 %. El S&P 500 perdió un 3,70 %, su séptimo día seguido en rojo, y ya está un 10 % por debajo de su récord. El Nasdaq-100 quedó a solo 49 puntos de entrar en mercado bajista (−20 % desde máximos). Apple bajó un 1,9 % y Broadcom un 12 % por informaciones no confirmadas de que Google comprará menos de sus chips el año que viene.",
-   "impacto": [
-    [
-     "NASDAQ",
-     "down",
-     "El miedo a la IA se convirtió en venta general: los inversores salen de tecnología y se refugian en sectores defensivos como consumo básico."
-    ],
-    [
-     "AAPL",
-     "down",
-     "Cayó mucho menos que el resto: el mercado la ve menos expuesta a la IA."
-    ],
-    [
-     "GOOGL",
-     "neu",
-     "La noticia de que Google recortaría compras de chips a Broadcom la pone en el centro del debate sobre el gasto en IA."
-    ],
-    [
-     "VIX",
-     "up",
-     "El índice del miedo subió un 26 %, hasta 35,89: la volatilidad seguirá alta en los próximos días."
-    ]
-   ],
-   "clave": "El mercado está en modo pánico con la tecnología. Con el VIX por encima de 35, reduce el tamaño de tus operaciones y respeta tus stops.",
-   "fuente": [
-    "Yahoo Finanzas",
-    "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
-   ]
-  },
-  {
-   "dia": "2026-11-20",
-   "cat": "USD",
-   "score": 8,
-   "titulo": "El oro se hunde un 4,6 % y los bonos actúan como refugio",
-   "paso": "El oro (futuros) cayó un 4,6 %, hasta unos 3.515 $, y ya está por debajo de los 3.600 $. Con la caída de la bolsa, los grandes inversores venden materias primas para quedarse con dólares en efectivo y bonos del Tesoro. Por eso la rentabilidad del bono a 10 años bajó 0,12 puntos, hasta el 4,92 %.",
-   "impacto": [
-    [
-     "XAUUSD",
-     "down",
-     "En un pánico, se vende lo que se puede vender para cubrir pérdidas, incluido el oro. Además, la Fed sigue camino de subir tasas."
-    ],
-    [
-     "DXY",
-     "neu",
-     "El dólar casi no se movió (103,84): gana como refugio, pero lo frena la bajada de las rentabilidades de los bonos."
-    ],
-    [
-     "USDJPY",
-     "down",
-     "El yen también funciona como refugio: el par bajó un 0,74 % y se alejó de la zona de 160."
-    ]
-   ],
-   "clave": "Esta vez el oro no fue refugio: lo que manda es la caja en dólares. Cuidado con comprar oro solo porque «está barato».",
-   "fuente": [
-    "CappNotes",
-    "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
-   ]
-  },
-  {
-   "dia": "2026-11-20",
-   "cat": "USD",
-   "score": 7,
-   "titulo": "La Fed no se ablanda pese a la caída de la bolsa",
-   "paso": "Dos miembros de la Fed, Anna Paulson (Filadelfia) y la gobernadora Lisa Cook, dijeron que están abiertos a subir tasas en reuniones seguidas y que esperar demasiado es arriesgado. El mercado mantiene en un 90 % la probabilidad de una subida de 0,25 % el 9 de diciembre. Como dato positivo, la inflación que espera el consumidor para el próximo año bajó al 3,7 %, la menor desde marzo.",
-   "impacto": [
-    [
-     "DXY",
-     "up",
-     "Si la Fed sigue subiendo tasas aunque caiga la bolsa, el dólar mantiene su ventaja frente a otras monedas."
-    ],
-    [
-     "NASDAQ",
-     "down",
-     "No hay «rescate» de la Fed a la vista: las tecnológicas siguen sin el apoyo de tasas más bajas."
-    ],
-    [
-     "ORO",
-     "down",
-     "Más subidas de tasas siguen siendo un viento en contra para el oro."
-    ]
-   ],
-   "clave": "La Fed prioriza la inflación sobre la bolsa. La subida de diciembre sigue casi segura.",
-   "fuente": [
-    "CappNotes",
-    "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
-   ]
   }
  ],
  "mag": [
@@ -2023,35 +1926,5 @@
    "Los nuevos aranceles de hasta el 20 % no entrarían en vigor antes de enero."
   ]
  ],
- "cola": [
-  {
-   "dia": "2026-11-27",
-   "cat": "USD",
-   "score": 6,
-   "titulo": "El dólar se da la vuelta y cierra la semana por encima de 104",
-   "paso": "Tras ceder por la mañana, el índice del dólar (DXY) terminó el viernes con una subida del 0,36 %, en 104,04, y cerró la semana en positivo. El EURUSD bajó un 0,36 %, hasta 1,0939, y el USDJPY subió un 0,26 %, hasta 159,55. Lo empujaron los bonos: la rentabilidad del bono a 10 años subió 0,09 puntos, hasta el 4,94 %, porque con la bolsa al alza menos inversores buscaron refugio en ellos. Desde el sábado, los miembros de la Fed entran en su periodo de silencio antes de la reunión del 8 y 9 de diciembre.",
-   "impacto": [
-    [
-     "DXY",
-     "up",
-     "Si los bonos de EE. UU. pagan más, tener dólares rinde más y el dólar recupera fuerza."
-    ],
-    [
-     "EURUSD",
-     "down",
-     "Con el dólar más firme, el euro vuelve a alejarse de 1,10 y se acerca a la zona de 1,09."
-    ],
-    [
-     "USDJPY",
-     "up",
-     "El par vuelve a acercarse a 160, la zona donde Japón podría intervenir para defender el yen."
-    ]
-   ],
-   "clave": "El dólar sigue firme cerca de sus máximos del año: sin discursos de la Fed hasta su reunión, el dato de empleo del 4 de diciembre será lo que más lo mueva.",
-   "fuente": [
-    "CappNotes",
-    "https://cappnotes.substack.com/p/closing-look-friday-november-27-2026"
-   ]
-  }
- ]
+ "cola": []
 }
